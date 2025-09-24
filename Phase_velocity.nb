@@ -1,0 +1,280 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[     11311,        272]
+NotebookOptionsPosition[     10724,        254]
+NotebookOutlinePosition[     11126,        270]
+CellTagsIndexPosition[     11083,        267]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", 
+   RowBox[{
+   "Simulation", " ", "for", " ", "the", " ", "phase", " ", "velocity"}], " ",
+    "*)"}], "\[IndentingNewLine]", 
+  RowBox[{"(*", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"Parameters", "--"}], "--"}], "define", " ", "parameters", " ", 
+    RowBox[{"here", ".", " ", "You"}], " ", "can", " ", "play", " ", "with", 
+    " ", "the", " ", "numbers"}], "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"\[Omega]", "=", "1"}], ";"}], " ", 
+   RowBox[{"(*", 
+    RowBox[{"Angular", " ", "frequency"}], "*)"}], "\n", 
+   RowBox[{
+    RowBox[{"k", "=", "1"}], ";"}], " ", 
+   RowBox[{"(*", "Wavenumber", "*)"}], "\n", 
+   RowBox[{
+    RowBox[{"vPhase", "=", 
+     RowBox[{"\[Omega]", "/", "k"}]}], ";"}], " ", 
+   RowBox[{"(*", 
+    RowBox[{"Phase", " ", "velocity"}], "*)"}], "\n", 
+   RowBox[{
+    RowBox[{"A", "=", "1"}], ";"}], " ", 
+   RowBox[{"(*", " ", 
+    RowBox[{"A", " ", "is", " ", "the", " ", "amplitude"}], "*)"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{"Define", " ", "the", " ", "wave", " ", "equation"}], "*)"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"wave", "[", 
+      RowBox[{"x_", ",", "t_"}], "]"}], ":=", 
+     RowBox[{"A", "*", 
+      RowBox[{"Cos", "[", 
+       RowBox[{
+        RowBox[{"\[Omega]", "*", " ", "t"}], "-", 
+        RowBox[{"k", " ", "x"}]}], "]"}]}]}], ";"}], "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{
+     RowBox[{
+     "Animation", " ", "showing", " ", "the", " ", "wave", " ", "moving", " ",
+       "through", " ", "space", " ", "over", " ", "time", " ", "with", " ", 
+      "fixed", " ", "axis", " ", "labels", " ", "and", " ", "dynamic", " ", 
+      "time", " ", 
+      RowBox[{"display", "--"}]}], "-", 
+     RowBox[{
+     "this", " ", "will", " ", "be", " ", "done", " ", "by", " ", "the", " ", 
+      "animate", " ", "command"}]}], "*)"}], "\n", 
+   RowBox[{"waveAnimation", "=", 
+    RowBox[{"Animate", "[", 
+     RowBox[{
+      RowBox[{"Plot", "[", 
+       RowBox[{
+        RowBox[{"wave", "[", 
+         RowBox[{"x", ",", "t"}], "]"}], ",", 
+        RowBox[{"{", 
+         RowBox[{"x", ",", "0", ",", "10"}], "}"}], ",", 
+        RowBox[{"PlotRange", "->", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"0", ",", "10"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{
+              RowBox[{"-", "1.5"}], "*", "A"}], ",", 
+             RowBox[{"1.5", "*", "A"}]}], "}"}]}], "}"}]}], ",", 
+        RowBox[{"Epilog", "->", 
+         RowBox[{"{", 
+          RowBox[{"Red", ",", "Thick", ",", 
+           RowBox[{"Line", "[", 
+            RowBox[{"{", 
+             RowBox[{
+              RowBox[{"{", 
+               RowBox[{
+                RowBox[{"vPhase", " ", "t"}], ",", 
+                RowBox[{
+                 RowBox[{"-", "1.5"}], "*", "A"}]}], "}"}], ",", 
+              RowBox[{"{", 
+               RowBox[{
+                RowBox[{"vPhase", " ", "t"}], ",", 
+                RowBox[{"1.5", "*", "A"}]}], "}"}]}], "}"}], "]"}]}], "}"}]}],
+         ",", 
+        RowBox[{"Frame", "->", "True"}], ",", 
+        RowBox[{"FrameLabel", "->", 
+         RowBox[{"{", 
+          RowBox[{"\"\<Position (x)\>\"", ",", "\"\<Amplitude\>\""}], "}"}]}],
+         ",", 
+        RowBox[{"PlotLabel", "->", 
+         RowBox[{"Row", "[", 
+          RowBox[{"{", 
+           RowBox[{
+           "\"\<Wave Propagation and Constant Phase (Red Line), Time: \>\"", 
+            ",", 
+            RowBox[{"Style", "[", 
+             RowBox[{
+              RowBox[{"NumberForm", "[", 
+               RowBox[{"t", ",", 
+                RowBox[{"{", 
+                 RowBox[{"3", ",", "1"}], "}"}]}], "]"}], ",", "Bold"}], 
+             "]"}]}], "}"}], "]"}]}]}], "]"}], ",", 
+      RowBox[{"(*", 
+       RowBox[{"Dynamically", " ", "Display", " ", "Time"}], "*)"}], 
+      RowBox[{"{", 
+       RowBox[{"t", ",", "0", ",", "10"}], "}"}]}], "]"}]}], 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{"Display", " ", "the", " ", "animation"}], "*)"}], "\n", 
+   "waveAnimation"}]}]], "Input",
+ CellChangeTimes->{{3.9364543514622097`*^9, 3.936454410931141*^9}, {
+  3.936454472017561*^9, 3.936454670675564*^9}},
+ CellLabel->"In[8]:=",ExpressionUUID->"2bfdce03-43ea-d34f-979e-fe80c908ff4e"],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`t$$ = 2.417736053466797, Typeset`show$$ = 
+    True, Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
+    "\"untitled\"", Typeset`specs$$ = {{
+      Hold[$CellContext`t$$], 0, 10, ControlType -> Animator}}, 
+    Typeset`size$$ = {360., {118.72106515980495`, 124.45299896380102`}}, 
+    Typeset`update$$ = 0, Typeset`initDone$$, Typeset`skipInitDone$$ = True, 
+    Typeset`keyframeActionsQ$$ = False, Typeset`keyframeList$$ = {}}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {$CellContext`t$$ = 0}, 
+      "ControllerVariables" :> {}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$, Typeset`keyframeActionsQ$$, 
+        Typeset`keyframeList$$}, "Body" :> Plot[
+        $CellContext`wave[$CellContext`x, $CellContext`t$$], {$CellContext`x, 
+         0, 10}, PlotRange -> {{0, 
+          10}, {(-1.5) $CellContext`A, 1.5 $CellContext`A}}, 
+        Epilog -> {Red, Thick, 
+          
+          Line[{{$CellContext`vPhase $CellContext`t$$, (-1.5) \
+$CellContext`A}, {$CellContext`vPhase $CellContext`t$$, 
+             1.5 $CellContext`A}}]}, Frame -> True, 
+        FrameLabel -> {"Position (x)", "Amplitude"}, PlotLabel -> 
+        Row[{"Wave Propagation and Constant Phase (Red Line), Time: ", 
+           Style[
+            NumberForm[$CellContext`t$$, {3, 1}], Bold]}]], 
+      "Specifications" :> {{$CellContext`t$$, 0, 10, 
+         AppearanceElements -> {
+          "ProgressSlider", "PlayPauseButton", "FasterSlowerButtons", 
+           "DirectionButton"}}}, 
+      "Options" :> {
+       ControlType -> Animator, AppearanceElements -> None, DefaultBaseStyle -> 
+        "Animate", DefaultLabelStyle -> "AnimateLabel", SynchronousUpdating -> 
+        True, ShrinkingDelay -> 10.}, "DefaultOptions" :> {}],
+     ImageSizeCache->{407.1, {153.9686684972123, 159.70060230120836`}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Animate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{{3.9364543526629543`*^9, 3.936454367582018*^9}, {
+  3.9364545292263107`*^9, 3.9364545367092056`*^9}, {3.9364545896021805`*^9, 
+  3.936454604783493*^9}, {3.936454641822777*^9, 3.9364546786921597`*^9}},
+ CellLabel->"Out[13]=",ExpressionUUID->"905c7480-df07-7d43-b98f-fed697e21358"],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`t$$ = 2.3360023498535156`, Typeset`show$$ = 
+    True, Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
+    "\"untitled\"", Typeset`specs$$ = {{
+      Hold[$CellContext`t$$], 0, 10, ControlType -> Animator}}, 
+    Typeset`size$$ = {360., {118.72106515980495`, 124.45299896380102`}}, 
+    Typeset`update$$ = 0, Typeset`initDone$$, Typeset`skipInitDone$$ = True, 
+    Typeset`keyframeActionsQ$$ = False, Typeset`keyframeList$$ = {}}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {$CellContext`t$$ = 0}, 
+      "ControllerVariables" :> {}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$, Typeset`keyframeActionsQ$$, 
+        Typeset`keyframeList$$}, "Body" :> Plot[
+        $CellContext`wave[$CellContext`x, $CellContext`t$$], {$CellContext`x, 
+         0, 10}, PlotRange -> {{0, 
+          10}, {(-1.5) $CellContext`A, 1.5 $CellContext`A}}, 
+        Epilog -> {Red, Thick, 
+          
+          Line[{{$CellContext`vPhase $CellContext`t$$, (-1.5) \
+$CellContext`A}, {$CellContext`vPhase $CellContext`t$$, 
+             1.5 $CellContext`A}}]}, Frame -> True, 
+        FrameLabel -> {"Position (x)", "Amplitude"}, PlotLabel -> 
+        Row[{"Wave Propagation and Constant Phase (Red Line), Time: ", 
+           Style[
+            NumberForm[$CellContext`t$$, {3, 1}], Bold]}]], 
+      "Specifications" :> {{$CellContext`t$$, 0, 10, 
+         AppearanceElements -> {
+          "ProgressSlider", "PlayPauseButton", "FasterSlowerButtons", 
+           "DirectionButton"}}}, 
+      "Options" :> {
+       ControlType -> Animator, AppearanceElements -> None, DefaultBaseStyle -> 
+        "Animate", DefaultLabelStyle -> "AnimateLabel", SynchronousUpdating -> 
+        True, ShrinkingDelay -> 10.}, "DefaultOptions" :> {}],
+     ImageSizeCache->{407.1, {153.9686684972123, 159.70060230120836`}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Animate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{{3.9364543526629543`*^9, 3.936454367582018*^9}, {
+  3.9364545292263107`*^9, 3.9364545367092056`*^9}, {3.9364545896021805`*^9, 
+  3.936454604783493*^9}, {3.936454641822777*^9, 3.936454678715082*^9}},
+ CellLabel->"Out[14]=",ExpressionUUID->"6f883470-4d02-0641-b10d-3a2463670012"]
+}, Open  ]]
+},
+WindowSize->{1440, 741.75},
+WindowMargins->{{-6, Automatic}, {Automatic, -6}},
+FrontEndVersion->"14.1 for Microsoft Windows (64-bit) (July 16, 2024)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"8822ef59-eff5-a142-8163-77ba68a2f418"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[576, 22, 4374, 117, 313, "Input",ExpressionUUID->"2bfdce03-43ea-d34f-979e-fe80c908ff4e"],
+Cell[4953, 141, 2876, 54, 330, "Output",ExpressionUUID->"905c7480-df07-7d43-b98f-fed697e21358"],
+Cell[7832, 197, 2876, 54, 349, "Output",ExpressionUUID->"6f883470-4d02-0641-b10d-3a2463670012"]
+}, Open  ]]
+}
+]
+*)
+
