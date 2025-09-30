@@ -1,0 +1,2266 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!--onetrust-->
+    <script type="text/javascript" src="https://cdn.cookielaw.org/consent/1638784f-1f7d-4a5c-837c-5cf9ed4c3b3f/OtAutoBlock.js"></script>
+    <!--end onetrust-->    <link href="/frontend/criticalcss/homepage.min.css?v&#x3D;2.2.108" media="screen" rel="stylesheet" type="text/css" >
+    
+    <!--global head tags-->
+    
+    
+    <!--webfont-->
+    <script data-ot-ignore>var WebFontConfig = { google: { families: ['Baloo','Open+Sans',] } };</script>
+    <script data-ot-ignore src="//ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js" async></script>
+    <noscript><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Baloo|Open+Sans"></noscript>
+    <!--route specific sync tags-->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        var gtmEnv = 'true' ? 'production' : 'development';
+        dataLayer.push({"environment": gtmEnv});
+        dataLayer.push({"version":"2.2.108"});
+    </script>
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.setAttribute('class','optanon-category-C0001');j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TK2HK9');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Free Essays, Research Papers, and Writing Prompts | 123HelpMe</title>
+    <meta name="description" content="Address all writing concerns with 123HelpMe’s premier set of essays, writing prompts, and research paper topics. Get started with the best writing tools today.">
+    <meta name="HandheldFriendly" content="True" />
+    <link rel="canonical" href="https://www.123helpme.com/" />
+    <script data-ot-ignore type="text/javascript" src="https://ab840a5abf4d.edge.sdk.awswaf.com/ab840a5abf4d/b0f70ab89207/challenge.compact.js" defer></script>
+</head>
+
+<body text="#343434" alink="#002040" vlink="#0768b2" link="#0768b2">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK2HK9"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->    
+    <header class="header-splat">
+        <script type="text/javascript" src="../../frontend/script/writingmenu.min.js" defer="true"></script>
+        <div class="row">
+            <div class="columns small-3 medium-2 large-2 header-splat__columns mobile-flex">
+                <div class="nav-mobile">
+                    <a id="nav-toggle" role="button" aria-label="Hamburger menu" aria-expanded="false"
+                        href="javascript:void(0);" class="bv-popup-parent"
+                        data-bv-click="toggleClass('display-none'):'navbar-dropdown';toggleClass('active'):'nav-toggle';toggleAttr('aria-expanded','true','false'):'nav-toggle';"><span></span></a>
+                </div>
+                <a href="/" class="header-splat__logo-container"></a>
+                <a class="header-splat__skip-main" href="#divPreviewBlock">
+                    Skip to Content (press Enter/Return)
+                </a>
+            </div>
+    
+            <div class="columns  small-5 medium-2 large-4 full-height">
+                <section class="navigation">
+                    <div class="nav-container">
+                        <nav>
+                            <ul id="navbar-dropdown" class="nav-list display-none">
+                                    <li>
+                                        <a href=/essays>Essays</a>
+                                    </li>
+                                    <li>
+                                        <a href=/topics/>Topics</a>
+                                    </li>
+                                    <li>
+                                        <a id="toggle-writing-menu" data-bv-click="toggleClass('display-none'):'nav-dropdown-write';toggleAttr('aria-expanded','true','false'):'toggle-writing-menu'" aria-label="writing menu" aria-expanded="false" href="javascript:void(0);">Writing</a>
+                                        <ul class="nav-dropdown-write display-none" id="nav-dropdown-write">
+                                        <li >
+                                            <a href=/writing-help/>Writing Help</a>
+                                        </li>
+                                        <li >
+                                            <a href=/editor>Writing Tool</a>
+                                        </li>
+                                        </ul>
+                                    <li>
+                            </ul>
+                        </nav>
+                    </div>
+                </section>
+            </div>
+    
+            <div class="columns small-2 medium-6 large-5 header-splat__search-box-container position-relative full-height">
+                <form class="search-box search-box-header header-splat__search-box header-splat__search-box--custom-nav"
+                    id="search-form" action="/search" method="GET"><input type="text"
+                        name="query"
+                        class="search-box__input search-box__input--gray-bg search-box__input--splat-header undefined js-bound"
+                        placeholder="Essay topics, assignments, speeches..."><button
+                        class="search-box__button search-box__button--splat-header" aria-label="Search" type="submit"><img
+                            class="search-mobile-hide" src="//assets.123helpme.com/1.17/images/others/search.png" width="28" alt="Search"> <svg class="search-mobile-show"
+                            width="25" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                d="M23.4142 8.58578L30.8284 16L23.4142 23.4142C22.6332 24.1952 21.3668 24.1952 20.5858 23.4142C19.8047 22.6332 19.8047 21.3668 20.5858 20.5858L23.1716 18H4C2.89542 18 2 17.1046 2 16C2 14.8954 2.89542 14 4 14H23.1716L20.5858 11.4142C19.8047 10.6332 19.8047 9.36684 20.5858 8.58578C21.3668 7.80474 22.6332 7.80474 23.4142 8.58578Z"
+                                fill="black" />
+                        </svg></button>
+                </form>
+                <div
+                    class="header-splat__search-toggle-container header-splat__search-toggle-container--custom-nav header-splat__search-toggle-container--custom-nav-ng1"
+                    data-bv-click="toggleClass('conditionally-visible'):'search-form';"
+                    >
+                    <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M25.3285 23.6713L21.0001 19.378C22.6803 17.2831 23.4939 14.6242 23.2737 11.9478C23.0536 9.2715 21.8164 6.78122 19.8166 4.98906C17.8167 3.1969 15.2062 2.23907 12.5219 2.31253C9.83751 2.38598 7.28331 3.48513 5.38446 5.38398C3.48562 7.28282 2.38647 9.83702 2.31301 12.5214C2.23956 15.2058 3.19739 17.8162 4.98955 19.8161C6.78171 21.8159 9.27199 23.0531 11.9483 23.2733C14.6246 23.4934 17.2836 22.6798 19.3785 20.9996L23.6718 25.293C23.7803 25.4023 23.9093 25.4891 24.0515 25.5484C24.1936 25.6076 24.3461 25.6381 24.5001 25.6381C24.6541 25.6381 24.8066 25.6076 24.9488 25.5484C25.091 25.4891 25.22 25.4023 25.3285 25.293C25.5387 25.0754 25.6563 24.7847 25.6563 24.4821C25.6563 24.1796 25.5387 23.8889 25.3285 23.6713ZM12.8335 20.9996C11.2183 20.9996 9.63931 20.5207 8.29631 19.6233C6.95331 18.726 5.90657 17.4505 5.28845 15.9582C4.67033 14.466 4.50861 12.8239 4.82372 11.2397C5.13883 9.65556 5.91663 8.2004 7.05876 7.05827C8.20089 5.91614 9.65605 5.13834 11.2402 4.82323C12.8244 4.50812 14.4665 4.66985 15.9587 5.28796C17.451 5.90608 18.7264 6.95282 19.6238 8.29582C20.5212 9.63882 21.0001 11.2178 21.0001 12.833C21.0001 14.9989 20.1397 17.0761 18.6082 18.6077C17.0766 20.1392 14.9994 20.9996 12.8335 20.9996Z"
+                            fill="white" />
+                    </svg>
+                </div>
+            </div>
+            <div class="columns small-2 large-1 full-height header-splat__columns">
+                <div class="header-splat__columns">
+                    <a href="https://www.123helpme.com/dashboard" rel="nofollow" aria-label="My Account">
+                        <div class="burger full-height vert-align-middle display-inline-block cursor-pointer position-relative margin-right-0">
+                            <div class="vert-center icon--account"></div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="section--hero brand-primary--bg align-left section--hero-123-helpme overflow-hidden">
+    <div class="row position-relative full-height section--hero-123-helpme__row">
+        <div class="small-12 large-8 full-height columns">
+            <div class="section-heading align-left no-margin">
+                <h1 class="heading-l baloo uppercase position-relative z-index-1">FIND INTUITIVE WRITING IDEAS</h1>
+                <p class="section-heading__subheading white weight-500 section--hero__subheading--123 text-l margin-1">Write like a pro with 123HelpMe’s expertly managed database of essay examples, academic papers, prompts, and tools.</p>
+            </div>
+
+            <div>
+                <img alt="123 HelpMe Hero Desktop" class="bg-img--123-helpme-header bg-img--123-helpme-bg-height show-for-large" src="//assets.123helpme.com/1.17/images/bgs/123-helpme/hero-desktop.svg">
+            </div>
+            <div>
+                <img alt="123 HelpMe Hero Tablet" class="bg-img--full-width show-for-medium-only" src="//assets.123helpme.com/1.17/images/bgs/123-helpme/hero-tablet.svg">
+            </div>
+            <div>
+                <div class="bg-img--section-right-color green-gray-teal--bg"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section padding-bottom-1 no-margin no-border" aria-labelledby="researchLibraryRegion">
+    <div class="container">
+      <div class="row">
+        <div class="columns">
+          <div>
+            <h2 id="researchLibraryRegion" class="uppercase brand-primary heading-m margin-2 align-left baloo">EXPLORE OUR TOPIC LIBRARY</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row columns">
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/topics/Accounting">
+                        <img width="30px" height="30px" src="frontend/images/Accounting.svg" alt="Accounting">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/topics/Accounting" class="component-cats-subcats__heading-only text-s">Accounting</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/business">
+                        <img width="30px" height="30px" src="frontend/images/Business.svg" alt="Business">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/business" class="component-cats-subcats__heading-only text-s">Business</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/topics/culture">
+                        <img width="30px" height="30px" src="frontend/images/Culture.svg" alt="Culture">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/topics/culture" class="component-cats-subcats__heading-only text-s">Culture</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/topics/Economics">
+                        <img width="30px" height="30px" src="frontend/images/Economics.svg" alt="Economics">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/topics/Economics" class="component-cats-subcats__heading-only text-s">Economics</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/topics/education">
+                        <img width="30px" height="30px" src="frontend/images/Education.svg" alt="Education">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/topics/education" class="component-cats-subcats__heading-only text-s">Education</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/topics/Geography">
+                        <img width="30px" height="30px" src="frontend/images/Geography.svg" alt="Geography">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/topics/Geography" class="component-cats-subcats__heading-only text-s">Geography</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/politics">
+                        <img width="30px" height="30px" src="frontend/images/Politics.svg" alt="Politics">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/politics" class="component-cats-subcats__heading-only text-s">Politics</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/topics/internet">
+                        <img width="30px" height="30px" src="frontend/images/Internet.svg" alt="Internet">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/topics/internet" class="component-cats-subcats__heading-only text-s">Internet</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/topics/law">
+                        <img width="30px" height="30px" src="frontend/images/Law.svg" alt="Law">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/topics/law" class="component-cats-subcats__heading-only text-s">Law</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/topics/Marketing">
+                        <img width="30px" height="30px" src="frontend/images/Marketing.svg" alt="Marketing">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/topics/Marketing" class="component-cats-subcats__heading-only text-s">Marketing</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/film">
+                        <img width="30px" height="30px" src="frontend/images/Film.svg" alt="Film">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/film" class="component-cats-subcats__heading-only text-s">Film</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/entertainment">
+                        <img width="30px" height="30px" src="frontend/images/Entertainment.svg" alt="Entertainment">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/entertainment" class="component-cats-subcats__heading-only text-s">Entertainment</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/philosophy">
+                        <img width="30px" height="30px" src="frontend/images/Philosophy.svg" alt="Philosophy">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/philosophy" class="component-cats-subcats__heading-only text-s">Philosophy</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/psychology">
+                        <img width="30px" height="30px" src="frontend/images/Psychology.svg" alt="Psychology">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/psychology" class="component-cats-subcats__heading-only text-s">Psychology</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/topics/Religion">
+                        <img width="30px" height="30px" src="frontend/images/Religion.svg" alt="Religion">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/topics/Religion" class="component-cats-subcats__heading-only text-s">Religion</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/science">
+                        <img width="30px" height="30px" src="frontend/images/Science.svg" alt="Science">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/science" class="component-cats-subcats__heading-only text-s">Science</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/history">
+                        <img width="30px" height="30px" src="frontend/images/History.svg" alt="History">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/history" class="component-cats-subcats__heading-only text-s">History</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/writing">
+                        <img width="30px" height="30px" src="frontend/images/Writing.svg" alt="Writing">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/writing" class="component-cats-subcats__heading-only text-s">Writing</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/literature">
+                        <img width="30px" height="30px" src="frontend/images/Literature.svg" alt="Literature">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/literature" class="component-cats-subcats__heading-only text-s">Literature</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        <div class="component-cats-subcats large-3 medium-4 small-6 columns">
+            <div class="component-cats-subcats__inner">
+                    <a href="/essay-topics/sociology">
+                        <img width="30px" height="30px" src="frontend/images/Sociology.svg" alt="Sociology">
+                    </a>
+              <div class="component-cats-subcats__text">
+                <p>
+                        <a href="/essay-topics/sociology" class="component-cats-subcats__heading-only text-s">Sociology</a>
+                </p>
+              </div>
+            </div>
+          </div>
+      </div>
+      <div class="row padding-top-1">
+        <div class="large-4 large-offset-4 columns">
+          <a aria-label="View all button" class="button button--inverse button--block button--white-blue-border margin-2 text-m" href="/topics/">View All</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section class="section padding-top-1 padding-bottom-1 no-margin no-border">
+    <div class="row">
+        <div class="large-12 columns">
+            <div class="section-heading">
+                <h2 class="uppercase brand-primary heading-m margin-2 align-left baloo"><a id="main" href="https://www.123helpme.com/essays" title="Sample Essays">View Sample Essays</a></h2>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="columns small-12 medium-6 large-4" >
+            <div class="card min-height-14 max-height-16 mid-gray-alt2--border">
+                <a class="card__title mid-gray-alt2" href="/essay/Why-do-I-want-to-be-a-462612">
+                    <h6 class="heading-xs">Why do I want to be a Delta?</h6>
+                </a>
+                <p class="card__content card_content-line-clamp mid-gray-alt2 text-s">A Dynamic Individual with Vitality and Attitudethese are the characteristics of a true DIVA. I never knew the real meaning of Delta Sigma Theta Sorority Incorporated until I attended college....</p>
+                <div class="card__content--readmore">
+                    <a class="card__footer mid-gray-alt2 text-xs" href="/essay/Why-do-I-want-to-be-a-462612">Read More</a>
+                </div>                
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-4" >
+            <div class="card min-height-14 max-height-16 mid-gray-alt2--border">
+                <a class="card__title mid-gray-alt2" href="/essay/Alpha-Sorority-Application-Letter-Sample-FCTCPH9Z2QV">
+                    <h6 class="heading-xs">Alpha Sorority Application Letter Sample</h6>
+                </a>
+                <p class="card__content card_content-line-clamp mid-gray-alt2 text-s">The purpose of this letter is to inform you about my interest in becoming a member of The Kappa Upsilon Chapter of Alpha Kappa Alpha Sorority, Incorporated. I sought out...</p>
+                <div class="card__content--readmore">
+                    <a class="card__footer mid-gray-alt2 text-xs" href="/essay/Alpha-Sorority-Application-Letter-Sample-FCTCPH9Z2QV">Read More</a>
+                </div>                
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-4" >
+            <div class="card min-height-14 max-height-16 mid-gray-alt2--border">
+                <a class="card__title mid-gray-alt2" href="/essay/Noah-Webster-A-Man-Who-Loved-Words-162359">
+                    <h6 class="heading-xs"> Noah Webster, A Man Who Loved Words by Elaine Cunningham</h6>
+                </a>
+                <p class="card__content card_content-line-clamp mid-gray-alt2 text-s">The book I read was &quot;Noah Webster, A Man Who Loved Words.&quot; It was written by Elaine Cunningham. The book has twelve chapters. The book has 176 pages in it....</p>
+                <div class="card__content--readmore">
+                    <a class="card__footer mid-gray-alt2 text-xs" href="/essay/Noah-Webster-A-Man-Who-Loved-Words-162359">Read More</a>
+                </div>                
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-4" >
+            <div class="card min-height-14 max-height-16 mid-gray-alt2--border">
+                <a class="card__title mid-gray-alt2" href="/essay/The-Story-Of-My-Life-Essay-753483">
+                    <h6 class="heading-xs">The Story Of My Life Essay</h6>
+                </a>
+                <p class="card__content card_content-line-clamp mid-gray-alt2 text-s">The Story of my LifeI have a very fulfilling feeling about what I have been able to accomplish in my life so far. I want the absolute best for myself...</p>
+                <div class="card__content--readmore">
+                    <a class="card__footer mid-gray-alt2 text-xs" href="/essay/The-Story-Of-My-Life-Essay-753483">Read More</a>
+                </div>                
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-4" >
+            <div class="card min-height-14 max-height-16 mid-gray-alt2--border">
+                <a class="card__title mid-gray-alt2" href="/essay/Compare-And-Contrast-Walking-Blues-Vs-Kentucky-6D8BB4BC9D653E92">
+                    <h6 class="heading-xs">Compare And Contrast Walking Blues Vs Kentucky</h6>
+                </a>
+                <p class="card__content card_content-line-clamp mid-gray-alt2 text-s">Walking Blues vs. Blue Moon of KentuckyAs time progressed, music had to continue to evolve to keep up with the ever-changing styles. Blues slowly began to morph into Rock and...</p>
+                <div class="card__content--readmore">
+                    <a class="card__footer mid-gray-alt2 text-xs" href="/essay/Compare-And-Contrast-Walking-Blues-Vs-Kentucky-6D8BB4BC9D653E92">Read More</a>
+                </div>                
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-4" >
+            <div class="card min-height-14 max-height-16 mid-gray-alt2--border">
+                <a class="card__title mid-gray-alt2" href="/essay/Essay-About-Depression-549792">
+                    <h6 class="heading-xs">Essay About Depression</h6>
+                </a>
+                <p class="card__content card_content-line-clamp mid-gray-alt2 text-s">The silent killer that takes lives without warning, punishment, or any sympathy; depression is truly one of the most prominent mental illnesses in the world. Depression is defined as a...</p>
+                <div class="card__content--readmore">
+                    <a class="card__footer mid-gray-alt2 text-xs" href="/essay/Essay-About-Depression-549792">Read More</a>
+                </div>                
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-4" >
+            <div class="card min-height-14 max-height-16 mid-gray-alt2--border">
+                <a class="card__title mid-gray-alt2" href="/essay/Lying-On-The-Couch-Sparknotes-0B8025A1D0C82AE7">
+                    <h6 class="heading-xs">Lying On The Couch Sparknotes</h6>
+                </a>
+                <p class="card__content card_content-line-clamp mid-gray-alt2 text-s">Lying on the Couch Final Book ReportStacy BlochNorth Central Technical CollegeBoundaries and Ethics in the Helping Professions99VCMs. Christina LucasMay 20, 2018 Lying on the Couch Final Book ReportWhile reading the...</p>
+                <div class="card__content--readmore">
+                    <a class="card__footer mid-gray-alt2 text-xs" href="/essay/Lying-On-The-Couch-Sparknotes-0B8025A1D0C82AE7">Read More</a>
+                </div>                
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-4" >
+            <div class="card min-height-14 max-height-16 mid-gray-alt2--border">
+                <a class="card__title mid-gray-alt2" href="/essay/The-Case-Of-The-Case-The-Court-729852">
+                    <h6 class="heading-xs">Medical Malpractice Case Study: The Court Was Appalled</h6>
+                </a>
+                <p class="card__content card_content-line-clamp mid-gray-alt2 text-s">Case Study #1: Case: The Court Was Appalled1.Explain the issue or dilemma using information from the readings in the book and other sources. In the case of Tomcik v. Ohio...</p>
+                <div class="card__content--readmore">
+                    <a class="card__footer mid-gray-alt2 text-xs" href="/essay/The-Case-Of-The-Case-The-Court-729852">Read More</a>
+                </div>                
+            </div>
+        </div>
+        <div class="columns small-12 medium-6 large-4" style="float:left;">
+            <div class="card min-height-14 max-height-16 mid-gray-alt2--border">
+                <a class="card__title mid-gray-alt2" href="/essay/Case-Study-Of-Claires-Chocolates-662775">
+                    <h6 class="heading-xs">Case Study Of Claire&#x27;s Chocolates</h6>
+                </a>
+                <p class="card__content card_content-line-clamp mid-gray-alt2 text-s">3.Market research and information about the industry is very important to the organization because it will allow the organization to position itself well in terms of sourcing chocolate raw materials...</p>
+                <div class="card__content--readmore">
+                    <a class="card__footer mid-gray-alt2 text-xs" href="/essay/Case-Study-Of-Claires-Chocolates-662775">Read More</a>
+                </div>                
+            </div>
+        </div>
+    </div>
+    
+    <div class="row center padding-top-1" >
+        <div class="columns large-4 large-offset-4 z-index-1 position-relative">
+            <div>
+                <a href="javascript:void(0);" class="button button--inverse button--block text-m show-more"
+                      aria-label="Show More" aria-expanded="false"
+                      id="show-more-sample-essays-link"
+                      data-bv-click="toggleClass('display-none'):'hidden-more-sample-essays';toggleText('Show Less', 'Show More'):'show-more-sample-essays-link';toggleAttr('aria-label', 'Show Less', 'Show More'):'show-more-sample-essays-link';toggleAttr('aria-expanded', 'true', 'false'):'show-more-sample-essays-link'"
+                >
+                    Show More
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="row display-none z-index-1 position-relative" id="hidden-more-sample-essays">
+        <div class="columns large-12" >
+          <div class="row">
+              <div class="columns">
+                  <div class="section-heading uppercase">
+                      <h5>More Sample Essays</h5>
+                  </div>
+              </div>
+          </div>
+          <div class="row padding-left-2">
+            <div class="columns">
+              <div class="row">
+                  <div class="columns columns-small-2 columns-medium-3 columns-large-4">
+                      <ul>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Dragon-Freudian-Conscious-Mind-FJ7Y8HEX37V" class="text-m cursor-pointer">The Dragon: Freudian Conscious Mind</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Essay-On-Nursing-Shortage-759484" class="text-m cursor-pointer">Essay On Nursing Shortage</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/My-Contributions-To-Nursing-My-Personal-Statement-655862" class="text-m cursor-pointer">My Contributions To Nursing: My Personal Statement Of Nursing</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Examples-Of-Professional-Goals-In-Nursing-716105" class="text-m cursor-pointer">Examples Of Professional Goals In Nursing</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Obesity-Informative-Speech-523846" class="text-m cursor-pointer">Obesity Informative Speech</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Urban-V-Jefferson-County-School-District-Case-PJWYPBNR7QV" class="text-m cursor-pointer">Urban V. Jefferson County School District Case Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Sociology-Reflection-Essay-707847" class="text-m cursor-pointer">Sociology Reflection Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Reckless-Driving-Essay-376870" class="text-m cursor-pointer">Reckless Driving Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-Gossip-About-Jenny-Ash-776913" class="text-m cursor-pointer">Analysis Of Gossip About Jenny Ash</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Success-Essay-The-True-Definition-Of-Success-772264" class="text-m cursor-pointer">Success Essay: The True Definition Of Success</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Slave-Life-In-The-Antebellum-South-Analysis-677175" class="text-m cursor-pointer">Slave Life In The Antebellum South Analysis</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Pros-And-Cons-Of-Macropoland-476753" class="text-m cursor-pointer">The Pros And Cons Of Macropoland</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/F-A-T-City-Video-Summary-59A9FC4CAB28C685" class="text-m cursor-pointer">F. A. T. City Video Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Application-to-Columbia-GS-363074" class="text-m cursor-pointer">Application to Columbia GS</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/My-Growth-as-a-Writer-44958" class="text-m cursor-pointer"> My Growth as a Writer</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Case-Study-Sunrises-Quickie-Division-PCKJHB23YXV" class="text-m cursor-pointer">Case Study Sunrise&#x27;s Quickie Division</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Which-Branch-Of-Government-Is-More-Powerful-679014" class="text-m cursor-pointer">Which Branch Of Government Is More Powerful?</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Social-Psychology-Reflection-Paper-682970" class="text-m cursor-pointer">Social Psychology Reflection Paper</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Case-Study-Situation-Assessment-738901" class="text-m cursor-pointer">Case Study: Situation Assessment</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Erickson-Stage-Theory-and-the-Impact-of-331563" class="text-m cursor-pointer">Erickson Stage Theory and the Impact of Divorce on Children </a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/National-Junior-Honor-Society-Essay-Examples-FJXSU26HWT" class="text-m cursor-pointer">National Junior Honor Society Essay Examples</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Personal-Narrative-My-Experience-In-The-Military-702975" class="text-m cursor-pointer">Personal Narrative: My Experience In The Military</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Argumentative-Essay-About-Food-PJAJNGGDN6" class="text-m cursor-pointer">Argumentative Essay About Food</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/My-Girl-Movie-Analysis-FCG4G5KVVT" class="text-m cursor-pointer">My Girl Movie Analysis</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Conquest-Of-New-Spain-Sparknotes-7A7B4A6EE52B6A25" class="text-m cursor-pointer">The Conquest Of New Spain Sparknotes</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Importance-of-Being-on-Time-274964" class="text-m cursor-pointer">Importance of Being on Time</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Theory-Systems-Theory-And-Cognitive-Behavioral-Theory-734056" class="text-m cursor-pointer">Theory: Systems Theory And Cognitive Behavioral Theory</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Last-Dog-379034" class="text-m cursor-pointer">The Last Dog</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Does-Money-Buy-Happiness-In-The-Great-508290" class="text-m cursor-pointer">Does Money Buy Happiness In The Great Gatsby Analysis</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Speech-Universal-Health-Care-131433" class="text-m cursor-pointer"> Speech: Universal Health Care</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-Gone-An-Historical-Romance-Of-662163" class="text-m cursor-pointer">Analysis Of Gone: An Historical Romance Of A Civil War By Kara Walker</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Existential-Therapy-Essay-763525" class="text-m cursor-pointer">Existential Therapy Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/I-Want-To-Be-A-Respiratory-Therapist-FCASEASRG4T" class="text-m cursor-pointer">I Want To Be A Respiratory Therapist Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Rhetorical-Analysis-Why-We-Crave-Horror-Movies-756691" class="text-m cursor-pointer">Rhetorical Analysis Why We Crave Horror Movies</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Chapter-Summary-Of-Francis-Of-Assisi-511894" class="text-m cursor-pointer">Chapter Summary Of Francis Of Assisi</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Summary-Of-John-Scotts-Behind-The-Urals-B0B8F0B9CEF21396" class="text-m cursor-pointer">Summary Of John Scott&#x27;s Behind The Urals</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/China-Noah-Case-750914" class="text-m cursor-pointer">China Noah Case</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-Sam-Harrisscience-Can-Answer-Moral-700923" class="text-m cursor-pointer">Analysis Of Sam Harris&#x27;science Can Answer Moral Questions</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Martha-Of-The-North-Analysis-PCHCKNCB826" class="text-m cursor-pointer">Martha Of The North Analysis</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Theodore-Roosevelts-Estate-476420" class="text-m cursor-pointer">Theodore Roosevelt&#x27;s Estate</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-The-Exotic-Rissole-By-Tanveer-5318355D1538BB1C" class="text-m cursor-pointer">Analysis Of The Exotic Rissole By Tanveer Ahmed</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Bronfenbrenners-Ecological-Theory-Case-Study-431501" class="text-m cursor-pointer">Bronfenbrenner&#x27;s Ecological Theory Case Study</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/SEEP-Model-In-Mental-Health-778985" class="text-m cursor-pointer">SEEP Model In Mental Health</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Annotation-Assignment-A-Separate-Peace-69120" class="text-m cursor-pointer"> Annotation Assignment: A Separate Peace</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/I-Want-To-Be-A-Doctor-Essay-374331" class="text-m cursor-pointer">I Want To Be A Doctor Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Ethnic-Myth-Chapter-Summary-FJLZUCVGS8V" class="text-m cursor-pointer">Ethnic Myth Chapter Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/What-Is-The-Other-Wes-Moore-Essay-719041" class="text-m cursor-pointer">What Is The Other Wes Moore Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Case-14-A-One-Trick-Principal-Summary-201CDBE01B195878" class="text-m cursor-pointer">Case 14 A One-Trick Principal Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-Punished-By-Victor-Rios-635289" class="text-m cursor-pointer">Analysis Of Punished By Victor Rios</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Compare-And-Contrast-Young-Goodman-Brown-And-742932" class="text-m cursor-pointer">Compare And Contrast Young Goodman Brown And The Cask Of Amontillado</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Oscar-Martinez-The-Beast-Analysis-PCG53Z8T3T" class="text-m cursor-pointer">Oscar Martinez The Beast Analysis</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Summary-Of-Somebody-Somewhere-Poem-By-Donna-DAFF99AB9D05E7BB" class="text-m cursor-pointer">Summary Of Somebody Somewhere Poem By Donna Williams</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Smashed-Story-Of-A-Drunken-Girlhood-by-162295" class="text-m cursor-pointer">Smashed: Story Of A Drunken Girlhood by Koren Zailckas </a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-The-American-Revolution-A-History-PCVVMZA3KV" class="text-m cursor-pointer">Analysis Of The American Revolution: A History By Gordon Wood</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-Basil-Davidsons-Different-But-Equal-725938" class="text-m cursor-pointer">Analysis Of Basil Davidson&#x27;s &#x27;Different But Equal&#x27;</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Balancing-School-Work-And-Family-Essay-728546" class="text-m cursor-pointer">Balancing School, Work And Family Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Skeleton-Twins-Case-Study-543016" class="text-m cursor-pointer">Skeleton Twins Case Study</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Why-I-Want-to-be-a-Social-381246" class="text-m cursor-pointer">Why I Want to be a Social Worker</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-Kyle-Wein-I-Won-T-D0114A7A4F4B3B07" class="text-m cursor-pointer">Analysis Of Kyle Wein &#x27;I Won T Hire People Who Use Poor Grammar&#x27;</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Brown-v-Board-of-Education-56484" class="text-m cursor-pointer"> Brown v Board of Education</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Paul-Finkelman-Defending-Slavery-Summary-9229649D5F6C3724" class="text-m cursor-pointer">Paul Finkelman Defending Slavery Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Philosophy-Of-Early-Childhood-Education-FJ2JXFUQN3M" class="text-m cursor-pointer">Philosophy Of Early Childhood Education</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Critical-Review-of-Peter-Dickens-Global-Shift-161458" class="text-m cursor-pointer">Critical Review of Peter Dickens&#x27; Global Shift: Mapping The Changing Contours of the World Economy</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/American-As-Public-School-Case-Study-FJ67LE93AT" class="text-m cursor-pointer">As American As Public School: 1900-1950</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/An-Analysis-Of-Jung-Ung-Yangs-Hamlet-732494" class="text-m cursor-pointer">An Analysis Of Jung Ung Yang&#x27;s Hamlet</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Difference-Between-A-Biological-And-A-Social-FJW5WMJGUEV" class="text-m cursor-pointer">Difference Between A Biological And A Social View Of Race</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Conflict-Theory-The-Functionalist-View-Of-Rape-FJUK9Y42VV" class="text-m cursor-pointer">Conflict Theory: The Functionalist View Of Rape</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-American-Holocaust-By-David-Stannard-681764" class="text-m cursor-pointer">The American Holocaust By David Stannard</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Compare-And-Contrast-Two-Cultures-734353" class="text-m cursor-pointer">Compare And Contrast Two Cultures</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Social-Learning-Theory-Of-Ted-Bundy-763799" class="text-m cursor-pointer">Social Learning Theory Of Ted Bundy</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Brave-New-World-State-Motto-44528" class="text-m cursor-pointer"> Brave New World State Motto</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-The-Wonders-Of-The-Invisible-724663" class="text-m cursor-pointer">Analysis Of The Wonders Of The Invisible World</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/An-Analysis-Of-Amnesty-By-Octavia-Butler-544618" class="text-m cursor-pointer">An Analysis Of Amnesty By Octavia Butler</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Conflict-Theory-The-Cause-Of-Homelessness-DA66CC411B520FC0" class="text-m cursor-pointer">The Conflict Theory: The Cause Of Homelessness</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Compare-And-Contrast-Jackie-Robinson-And-Shirley-PJKCJ7393ST" class="text-m cursor-pointer">Compare And Contrast Jackie Robinson And Shirley Temple Wong</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Toddler-Observation-Paper-PJ5S48C629V" class="text-m cursor-pointer">Toddler Observation Paper</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Comparing-the-Characters-of-Lysitrata-Penelope-and-110784" class="text-m cursor-pointer">Comparing the Characters of Lysitrata, Penelope, and Medea</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Punished-Policing-The-Lives-Of-Black-And-543441" class="text-m cursor-pointer">Punished Policing The Lives Of Black And Latino Boys Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Shawshank-Redemption-Subculture-Essay-531544" class="text-m cursor-pointer">Shawshank Redemption Subculture Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Importance-Of-Quality-Assurance-In-Assessment-PJFJGH2V8NR" class="text-m cursor-pointer">Importance Of Quality Assurance In Assessment</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Healthcare-Disparities-among-African-Americans-289506" class="text-m cursor-pointer">Healthcare Disparities among African Americans</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Negligence-In-The-Film-A-Civil-Action-96AA60CF15E1B5E8" class="text-m cursor-pointer">Negligence In The Film A Civil Action</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Personal-Statement-Growing-Up-In-A-Mexican-655098" class="text-m cursor-pointer">Personal Statement: Growing Up In A Mexican Family</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Preschool-Classroom-Observation-319498" class="text-m cursor-pointer">Preschool Classroom Observation</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/My-Special-Place-Essay-701373" class="text-m cursor-pointer">My Special Place Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/John-Barker-Ancestral-Lines-Summary-38D1417D0DB0EB10" class="text-m cursor-pointer">John Barker Ancestral Lines Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Saints-And-The-Roughnecks-Summary-753080" class="text-m cursor-pointer">The Saints And The Roughnecks Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Thesis-Statement-For-Gun-Control-Essay-671523" class="text-m cursor-pointer">Thesis Statement For Gun Control Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Student-Case-Study-35-Month-Old-Girl-PJZ54T75V" class="text-m cursor-pointer">Student Case Study: 35 Month Old Girl</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/A-Career-My-Career-Goals-For-Social-635160" class="text-m cursor-pointer">A Career: My Career Goals For Social Work</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Importance-Of-History-Essay-769941" class="text-m cursor-pointer">Importance Of History Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/My-Big-Fat-Greek-Wedding-Structural-Family-0915C9B372446387" class="text-m cursor-pointer">My Big Fat Greek Wedding: Structural Family Therapy</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Rhetorical-Devices-In-Margaret-Thatchers-Eulogy-To-9C8A49D0BA052C29" class="text-m cursor-pointer">Rhetorical Devices In Margaret Thatcher&#x27;s Eulogy To Ronald Regan</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Organic-Foods-vs-Non-organic-Foods-399689" class="text-m cursor-pointer">Organic Foods vs. Non-organic Foods</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Theme-of-A-Rose-for-Emily-110311" class="text-m cursor-pointer">Theme of A Rose for Emily</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Greyson-Gray-Camp-Legend-Summary-4FCBFBA6AA62627A" class="text-m cursor-pointer">Greyson Gray Camp Legend Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Insecurity-of-Shakespeares-Macbeth-3881" class="text-m cursor-pointer"> The Insecurity of Shakespeare&#x27;s Macbeth</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-Mama-Might-Be-Better-Off-718643" class="text-m cursor-pointer">Analysis Of Mama Might Be Better Off Dead</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Risk-Management-Practices-By-Royal-Shell-167158" class="text-m cursor-pointer">Risk Management Practices By Royal Shell</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Role-Of-Women-In-Much-Ado-342356" class="text-m cursor-pointer">The Role Of Women In Much Ado About Nothing</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Physical-Development-In-Look-Whos-Talking-542057" class="text-m cursor-pointer">Physical Development In &#x27;Look Who&#x27;s Talking&#x27;</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Essay-On-Reverend-Parris-In-The-Crucible-FCQE2S3QJT" class="text-m cursor-pointer">Essay On Reverend Parris In The Crucible</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Comparison-Of-Young-Goodman-Brown-And-Bartleby-FCHRPBW6V" class="text-m cursor-pointer">Comparison Of Young Goodman Brown And Bartleby The Scrivener</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Describe-In-Depth-Stages-Of-Development-From-PJMSXNUUVNV" class="text-m cursor-pointer">Describe, In-Depth Stages Of Development From Conception To Birth</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Hispanic-Folklore-Culture-FJTCLWPZK3T" class="text-m cursor-pointer">Hispanic Folklore Culture</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Importance-of-Exercise-and-Eating-Healthy-299526" class="text-m cursor-pointer">The Importance of Exercise and Eating Healthy</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Summary-Of-Tubmba-By-Mira-Canion-PCCJ2G6UK2V" class="text-m cursor-pointer">Summary Of Tubmba By Mira Canion</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Kenneth-Chase-Firearms-Analysis-PCKCD66C26V" class="text-m cursor-pointer">Kenneth Chase Firearms Analysis</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Rogue-Bank-Case-Study-651911" class="text-m cursor-pointer">Rogue Bank Case Study</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Compare-And-Contrast-Frederick-Douglass-And-David-516184" class="text-m cursor-pointer">Compare And Contrast Frederick Douglass And David Walker</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Joan-Didion-On-Keeping-A-Notebook-Summary-PJDDNYDVKV" class="text-m cursor-pointer">Joan Didion On Keeping A Notebook Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Mixed-Market-Economy-Essay-494683" class="text-m cursor-pointer">Mixed Market Economy Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/My-First-Live-Concert-Experience-5115" class="text-m cursor-pointer">My First Live Concert Experience</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Spiritual-Autobiography-Example-648979" class="text-m cursor-pointer">Spiritual Autobiography Example</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-The-Documentary-Policing-The-Police-FJMGMSBD2R" class="text-m cursor-pointer">Analysis Of The Documentary &#x27;Policing The Police&#x27;</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Babies-Documentary-Analysis-510793" class="text-m cursor-pointer">Babies Documentary Analysis</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Rhetorical-Analysis-Of-Forget-Shorter-Showers-By-A65805273BBB6F6C" class="text-m cursor-pointer">Rhetorical Analysis Of Forget Shorter Showers By Derrick Jensen</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Communication-A-Reflection-Essay-On-Communication-661675" class="text-m cursor-pointer">Communication: A Reflection Essay On Communication</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-Merle-Woos-Letter-To-Ma-719795" class="text-m cursor-pointer">Analysis Of Merle Woo&#x27;s &#x27;Letter To Ma&#x27;</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Personal-Narrative-Essay-Learning-A-New-Language-519651" class="text-m cursor-pointer">Personal Narrative Essay: Learning A New Language</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Intersectionality-in-Crash-A-Look-Into-Anthony-288727" class="text-m cursor-pointer">Intersectionality in Crash: A Look Into Anthony</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/What-Is-A-Family-179097" class="text-m cursor-pointer">What Is A Family?</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Chapter-Summary-Bad-Blood-By-James-H-E479D915F6EBABD1" class="text-m cursor-pointer">Chapter Summary: Bad Blood By James H. Jones</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Choice-A-Fable-of-Free-Trade-274013" class="text-m cursor-pointer">The Choice: A Fable of Free Trade and Protectionism</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Gender-Pay-Gap-Essay-700316" class="text-m cursor-pointer">Gender Pay Gap Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Emotional-Development-Essay-781839" class="text-m cursor-pointer">Emotional Development Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/On-Meaningful-Observation-By-John-Maeda-758259" class="text-m cursor-pointer">On Meaningful Observation By John Maeda</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Pride-the-Tragic-Flaw-of-Oedipus-the-79729" class="text-m cursor-pointer">Pride, the Tragic Flaw of Oedipus the King</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Literary-Analysis-Of-How-Do-I-Love-516913" class="text-m cursor-pointer">Literary Analysis Of How Do I Love Thee</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Chasing-Zero-Winning-The-War-On-Healthcare-718559" class="text-m cursor-pointer">Chasing Zero : Winning The War On Healthcare Harm</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Summary-Of-The-Documentary-Film-Miss-Representation-PCCGDUK26V" class="text-m cursor-pointer">Summary Of The Documentary Film: Miss Representation</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/William-Shakespeare-Research-Paper-344069" class="text-m cursor-pointer">William Shakespeare Research Paper</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Summary-Of-The-Plantation-Mistresses-By-Catherine-D38E9F804C3A1D6B" class="text-m cursor-pointer">Summary Of The Plantation Mistresses By Catherine Clinton</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Cause-And-Effect-Essay-On-Mental-Health-759206" class="text-m cursor-pointer">Cause And Effect Essay On Mental Health</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Character-Differences-of-Hesiods-Zeus-and-106993" class="text-m cursor-pointer">The Character Differences of Hesiod&#x27;s Zeus and ovid&#x27;s Jupiter</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Metaparadigm-of-Nursing-Jacqueline-Fawcett-263919" class="text-m cursor-pointer">The Metaparadigm of Nursing:  Jacqueline Fawcett</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Rhetorical-Analysis-Of-In-The-Dove-Self-FCWBGWYKKT" class="text-m cursor-pointer">Rhetorical Analysis Of In The Dove Self-Esteem Project</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/How-Does-Iago-Use-Pathos-In-Othello-760613" class="text-m cursor-pointer">How Does Iago Use Pathos In Othello</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Examples-Of-Clinical-Narrative-E61F799103326B12" class="text-m cursor-pointer">Examples Of Clinical Narrative</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Claireece-Precious-Jones-Case-Study-667695" class="text-m cursor-pointer">Erikson&#x27;s Psychosocial Stages of Development: Case Study</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Story-Of-An-Hour-Analysis-Essay-340950" class="text-m cursor-pointer">Story Of An Hour Analysis Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Ronald-Takaki-A-Different-Mirror-Analysis-FCHJSANCNWV" class="text-m cursor-pointer">Ronald Takaki A Different Mirror Analysis</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/One-Bullet-Away-Sparknotes-5DC39AC47EF0A656" class="text-m cursor-pointer">One Bullet Away Sparknotes</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Battle-Of-Hue-Mission-Command-Analysis-35F29C6DB988ACCB" class="text-m cursor-pointer">Battle Of Hue Mission Command Analysis</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Cabin-in-the-woods-56871" class="text-m cursor-pointer"> Cabin in the woods</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Essay-On-Importance-Of-Communication-In-The-FCJ6NGV4GG" class="text-m cursor-pointer">Essay On Importance Of Communication In The Workplace</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Jean-Watsons-Theory-Of-Nursing-Essay-510462" class="text-m cursor-pointer">Jean Watson&#x27;s Theory Of Nursing Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Gestational-Diabetes-Essay-465337" class="text-m cursor-pointer">Gestational Diabetes Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/What-Is-The-Use-Of-Satire-In-PJDWMJ29VZB" class="text-m cursor-pointer">What Is The Use Of Satire In Nikolai Gogol&#x27;s The Overcoat</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Virtue-Ethics-Vs-Utilitarianism-531918" class="text-m cursor-pointer">Virtue Ethics Vs Utilitarianism</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Study-Skills-Essay-705078" class="text-m cursor-pointer">Study Skills Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Legal-Research-Writing-And-Analysis-161768" class="text-m cursor-pointer">Legal Research, Writing, And Analysis</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Reframing-Canadas-Drug-Problem-By-Bruce-K-730765" class="text-m cursor-pointer">Reframing Canada&#x27;s Drug Problem By Bruce K. Alexander</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Reflection-Of-Family-Genogram-647591" class="text-m cursor-pointer">Reflection Of Family Genogram</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Wisdom-And-Fortitude-In-Beowulf-462507" class="text-m cursor-pointer">Wisdom And Fortitude In Beowulf</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/An-Analysis-Of-Barbara-Ehrenreichs-Cultural-Baggage-756736" class="text-m cursor-pointer">An Analysis Of Barbara Ehrenreich&#x27;s Cultural Baggage</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Case-Study-Satyam-669272" class="text-m cursor-pointer">Case Study: Satyam</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-Harrods-477495" class="text-m cursor-pointer">Analysis Of Harrods</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Analysis-Of-Beautiful-Child-By-Torey-Hayden-FC3YZZYMDNR" class="text-m cursor-pointer">Analysis Of Beautiful Child By Torey Hayden</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Persuasive-Essay-On-Fitness-735487" class="text-m cursor-pointer">Persuasive Essay On Fitness</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Literary-Analysis-Of-Liberty-Needs-Glasses-By-675249" class="text-m cursor-pointer">Literary Analysis Of Liberty Needs Glasses, By Tupac Shakur</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Science-Fair-Project-How-Sight-Affects-Balance-FJ2C8RDPV2T" class="text-m cursor-pointer">Science Fair Project: How Sight Affects Balance</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Summary-of-Boyles-Friendly-Skies-151136" class="text-m cursor-pointer"> Summary of Boyle&#x27;s Friendly Skies</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Influences-of-My-Personal-Counseling-Philosophy-363891" class="text-m cursor-pointer">Influences of My Personal Counseling Philosophy</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/What-Does-It-Mean-To-Be-A-FJKC7AW6K6M" class="text-m cursor-pointer">What Does It Mean To Be A Professional Soldier</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Compare-and-Contrast-Early-Years-Foundation-Stage-279963" class="text-m cursor-pointer">Compare and Contrast: Early Years Foundation Stage Curriculum, and Te Whariki Curriculum</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/The-Documentary-Mind-Of-A-Rampage-Killer-770473" class="text-m cursor-pointer">The Documentary: Mind Of A Rampage Killer</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Argumentative-Essay-On-Cyberbullying-664269" class="text-m cursor-pointer">Argumentative Essay On Cyberbullying</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Revenge-in-Hawthornes-The-Scarlet-Letter-3105" class="text-m cursor-pointer">  Revenge in Hawthorne&#x27;s The Scarlet Letter</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Hotel-Sorrento-By-Hannie-Rayson-435268" class="text-m cursor-pointer">Hotel Sorrento By Hannie Rayson</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Lost-Bullet-Characters-BA5C8B491778DD05" class="text-m cursor-pointer">Lost Bullet Characters</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Gandhi-Movie-Summary-66739" class="text-m cursor-pointer"> Gandhi Movie Summary</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/English-101-Reflection-532009" class="text-m cursor-pointer">English 101 Reflection</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Are-Humans-Ethical-By-Nature-Essay-521000" class="text-m cursor-pointer">Are Humans Ethical By Nature Essay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay/Personal-Narrative-My-Fathers-Battle-With-Cancer-PJAX67JRNLV" class="text-m cursor-pointer">Personal Narrative: My Father&#x27;s Battle With Cancer</a>
+                          </li>
+                      </ul>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+    
+</section>
+
+<section class="section padding-top-1 padding-bottom-1 no-margin no-border">
+    <div class="row">
+        <div class="columns large-12">
+            <div class="section-heading">
+                <h2 class="uppercase brand-primary heading-m align-left baloo" >EXPLORE CURATED ESSAY TOPIC IDEAS</h2>
+            </div>
+        </div>
+        <div class="padding-1 margin-1">
+        <p class="text-m">The process of writing well begins with topic selection. 123HelpMe simplifies this process for you by providing an in-depth list of carefully picked sample essay topics and research paper help to ensure you churn out your best submission when it matters most. Explore an eclectic set of essay topics ranging from <a href="https://www.123helpme.com/essay-topics/film/satire/fight-club" class="weight-600" title="cult classic films">cult classic films</a> to <a href="https://www.123helpme.com/essay-topics/psychology/developmental-psychology/developmental-theories" class="weight-600" title="fundamental theories in psychology">fundamental theories in psychology</a> with our detail-oriented database. Get started on your journey to discover the most ingenious essay, paper, and research topics you can find online today</p>
+        </div>
+    </div>
+    
+    <div class="row padding-top-1">
+        <div class="columns columns-small-1 columns-medium-2 columns-large-3">
+            <ul>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/writing/creative-non-fiction/social-commentary" class="text-m cursor-pointer">Social Commentary</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/sociology/ethnic-and-racial-studies/race" class="text-m cursor-pointer">Race</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/sociology/deviance-and-crime/societal-deviance" class="text-m cursor-pointer">Societal Deviance</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/writing/career-essays/career-goals-essay" class="text-m cursor-pointer">Career Goals Essay</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/sociology/deviance-and-crime/sara-model" class="text-m cursor-pointer">SARA Model</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/science/physics/aerodynamics" class="text-m cursor-pointer">Aerodynamics</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/science/biology/botany" class="text-m cursor-pointer">Botany</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/psychology/clinical-psychology/major-depressive-disorder" class="text-m cursor-pointer">Major Depressive Disorder</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/politics/american-politics/united-states-constitution" class="text-m cursor-pointer">United States Constitution</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/philosophy/philosophical-theories/ethical-subjectivism" class="text-m cursor-pointer">Ethical Subjectivism</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/philosophy/philosophers/rene-descartes" class="text-m cursor-pointer">Rene Descartes</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/philosophy/philosophical-theories/determinism-vs-free-will" class="text-m cursor-pointer">Determinism vs. Free Will</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/philosophy/philosophers/paul-michel-foucault" class="text-m cursor-pointer">Paul-Michel Foucault</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/young-adult-fiction/the-curious-incident-of-the-dog-in-the-night-time" class="text-m cursor-pointer">The Curious Incident of the Dog in the Night-Time</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/young-adult-fiction/looking-for-alaska" class="text-m cursor-pointer">Looking for Alaska</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/non-fiction/black-men-and-public-space" class="text-m cursor-pointer">Black Men and Public Space</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/victorian-literature/oliver-twist" class="text-m cursor-pointer">Oliver Twist</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/short-story/the-red-convertible" class="text-m cursor-pointer">The Red Convertible</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/short-story/the-necklace" class="text-m cursor-pointer">The Necklace</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/short-story/house-taken-over" class="text-m cursor-pointer">House Taken Over</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/short-story/five-ripe-pears" class="text-m cursor-pointer">Five Ripe Pears</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/short-story/hop-frog" class="text-m cursor-pointer">Hop-Frog</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/short-story/another-evening-at-the-club" class="text-m cursor-pointer">Another Evening at the Club</a>
+                </li>
+                <li class="tag-block__li--link">
+                    <a href="/essay-topics/literature/shakespeare/the-tempest" class="text-m cursor-pointer">The Tempest</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="row center padding-top-1" >
+        <div class="columns large-4 large-offset-4 z-index-1 position-relative">
+            <div>
+                <a href="javascript:void(0);" class="button button--inverse button--block text-m show-more"
+                      aria-label="Show More" aria-expanded="false"
+                      id="show-more-explore-essays-link"
+                      data-bv-click="toggleClass('display-none'):'hidden-more-explore-essays';toggleText('Show Less', 'Show More'):'show-more-explore-essays-link';toggleAttr('aria-label', 'Show Less', 'Show More'):'show-more-explore-essays-link';toggleAttr('aria-expanded', 'true', 'false'):'show-more-explore-essays-link'"
+                >
+                    Show More
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="row display-none z-index-1 position-relative" id="hidden-more-explore-essays">
+        <div class="columns large-12" >
+          <div class="row">
+              <div class="columns">
+                  <div class="section-heading uppercase">
+                      <h5>More Explore Curated Essays</h5>
+                  </div>
+              </div>
+          </div>
+          <div class="row padding-left-2">
+            <div class="columns">
+              <div class="row">
+                  <div class="columns columns-small-2 columns-medium-3 columns-large-4">
+                      <ul>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/shakespeare/macbeth" class="text-m cursor-pointer">Macbeth</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/shakespeare/king-lear" class="text-m cursor-pointer">King Lear</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/shakespeare/julius-caesar" class="text-m cursor-pointer">Julius Caesar</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/psychology/social-psychology/puerto-rican-stereotypes" class="text-m cursor-pointer">Puerto Rican Stereotypes</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/science-fiction/the-maze-runner" class="text-m cursor-pointer">The Maze Runner</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/science-fiction/the-devils-arithmetic" class="text-m cursor-pointer">The devil&#x27;s Arithmetic</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/science-fiction/fahrenheit-451" class="text-m cursor-pointer">Fahrenheit 451</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/russian-literature/crime-and-punishment" class="text-m cursor-pointer">Crime and Punishment</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/psychological-fiction/the-virgin-suicides" class="text-m cursor-pointer">The Virgin Suicides</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/the-world-is-too-much-with-us" class="text-m cursor-pointer">The World Is Too Much with Us</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/the-fish" class="text-m cursor-pointer">The Fish</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/nothing-gold-can-stay" class="text-m cursor-pointer">Nothing Gold Can Stay</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/to-the-virgins-to-make-much-of-time" class="text-m cursor-pointer">To the Virgins, to Make Much of Time</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/if-we-must-die" class="text-m cursor-pointer">If We Must Die</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/mother-to-son" class="text-m cursor-pointer">Mother to Son</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/i-wandered-lonely-as-a-cloud" class="text-m cursor-pointer">I Wandered Lonely as a Cloud</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/i-heard-a-fly-buzz-when-i-died" class="text-m cursor-pointer">I Heard A Fly Buzz When I Died</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/democracy" class="text-m cursor-pointer">Democracy</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/daddy" class="text-m cursor-pointer">Daddy</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/because-i-could-not-stop-for-death" class="text-m cursor-pointer">Because I Could Not Stop for Death</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/a-narrow-fellow-in-the-grass" class="text-m cursor-pointer">A Narrow Fellow In The Grass</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/anyone-lived-in-a-pretty-how-town" class="text-m cursor-pointer">Anyone Lived in a Pretty How Town</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/non-fiction/blue-collar-brilliance" class="text-m cursor-pointer">Blue-Collar Brilliance</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/poetry/anthem-for-doomed-youth" class="text-m cursor-pointer">Anthem for Doomed Youth</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/magical-realism/life-of-pi" class="text-m cursor-pointer">Life of Pi</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/literary-elements/tragic-hero" class="text-m cursor-pointer">Tragic Hero</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/literary-elements/hubris" class="text-m cursor-pointer">Hubris</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/literary-elements/dark-romanticism" class="text-m cursor-pointer">Dark Romanticism</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/literary-and-poetic-devices/soliloquy" class="text-m cursor-pointer">Soliloquy</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/holocaust-literature/the-diary-of-a-young-girl" class="text-m cursor-pointer">The Diary of a Young Girl</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/historical-fiction/the-red-badge-of-courage" class="text-m cursor-pointer">The Red Badge of Courage</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/historical-fiction/the-help" class="text-m cursor-pointer">The Help</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/historical-fiction/the-grapes-of-wrath" class="text-m cursor-pointer">The Grapes of Wrath</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/historical-fiction/balzac-and-the-little-chinese-seamstress" class="text-m cursor-pointer">Balzac and the Little Chinese Seamstress</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/graphic-novel/maus-a-survivors-tale" class="text-m cursor-pointer">Maus: A Survivor&#x27;s Tale</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/gothic-fiction/phantom-of-the-opera" class="text-m cursor-pointer">Phantom of the Opera</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/fantasy/the-hobbit" class="text-m cursor-pointer">The Hobbit</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/essay/fish-cheeks" class="text-m cursor-pointer">Fish Cheeks</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/essay/shooting-an-elephant" class="text-m cursor-pointer">Shooting an Elephant</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/epic-poetry/the-pardoners-tale" class="text-m cursor-pointer">The Pardoner&#x27;s Tale</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/epic-poetry/enuma-elis" class="text-m cursor-pointer">Enūma Eliš</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/epic-poetry/epic-of-gilgamesh" class="text-m cursor-pointer">Epic of Gilgamesh</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/drama/the-glass-menagerie" class="text-m cursor-pointer">The Glass Menagerie</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/drama/oedipus-rex" class="text-m cursor-pointer">Oedipus Rex</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/drama/the-duchess-of-malfi" class="text-m cursor-pointer">The Duchess of Malfi</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/drama/everyman" class="text-m cursor-pointer">Everyman</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/drama/a-raisin-in-the-sun" class="text-m cursor-pointer">A Raisin In The Sun</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/contemporary-fiction/dead-poets-society" class="text-m cursor-pointer">Dead Poets Society</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/childrens-literature/gullivers-travels" class="text-m cursor-pointer">Gulliver&#x27;s Travels</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/autobiography/kaffir-boy" class="text-m cursor-pointer">Kaffir Boy</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/american-literature/to-kill-a-mockingbird" class="text-m cursor-pointer">To Kill a Mockingbird</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/autobiography/a-child-called-it" class="text-m cursor-pointer">A Child Called &#x27;It&#x27;</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/biography/there-are-no-children-here-the-story-of-two-boys-growing-up-in-the-other-america" class="text-m cursor-pointer">There Are No Children Here: The Story of Two Boys Growing Up in the Other America</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/american-literature/the-great-gatsby" class="text-m cursor-pointer">The Great Gatsby</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/african-american-literature/the-souls-of-black-folk" class="text-m cursor-pointer">The Souls of Black Folk</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/african-american-literature/how-it-feels-to-be-colored-me" class="text-m cursor-pointer">How It Feels To Be Colored Me</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/adventure/the-count-of-monte-cristo" class="text-m cursor-pointer">The Count of Monte Cristo</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/history/american-history/reconstruction" class="text-m cursor-pointer">Reconstruction</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/history/american-history/american-civil-war" class="text-m cursor-pointer">American Civil War</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/business/management/leadership" class="text-m cursor-pointer">Leadership</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/entertainment/music/suga-boom-boom" class="text-m cursor-pointer">Suga Boom Boom</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/film/fantasy/avatar" class="text-m cursor-pointer">Avatar</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/entertainment/music/hip-hop" class="text-m cursor-pointer">Hip-Hop</a>
+                          </li>
+                          <li class="tag-block__li--link">
+                              <a href="/essay-topics/literature/science-fiction/the-road" class="text-m cursor-pointer">The Road</a>
+                          </li>
+                      </ul>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </section>
+
+<section class="section padding-top-1 padding-bottom-1 no-margin no-border">
+  <div class="row">
+      <div class="columns large-12">
+          <div class="section-heading">
+              <h2 class="uppercase brand-primary heading-m align-left baloo" >Browse New Essays</h2>
+          </div>
+          <div >
+            <p class="text-m">Writing involves both meticulous research and a flair for creativity. The former is especially important since it often informs the direction of the creative process when writing. Moreover, when writing academic papers, referring to quality essay examples and research paper topics can be of great importance. 123HelpMe’s consistently updated list of essays allows you to explore the latest in the world of academics and beyond. Write better by exploring our list of new essays and academic papers.</p>
+          </div>
+      </div>
+  </div>
+  
+  <div class="row padding-top-1">
+      <div class="columns columns-small-1 columns-medium-2 columns-large-3">
+          <ul>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Oppression-And-Alienation-In-James-Baldwins-Stranger-3111AB36B887FE6F" class="text-m cursor-pointer">Oppression And Alienation In James Baldwin&#x27;s Stranger In The Village</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/The-Other-Wes-Moore-Sparknotes-A10C58240AB7AC45" class="text-m cursor-pointer">The Other Wes Moore Sparknotes</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/R-V-Hunter-Case-Brief-By-Chelsea-9AB10E10A55A99F5" class="text-m cursor-pointer">R V. Hunter: Case Brief By Chelsea Abrahamson</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Similarities-Between-Anthem-And-To-Kill-A-01636FCFB1EF3B5A" class="text-m cursor-pointer">Similarities Between Anthem And To Kill A Mockingbird</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Lady-Macbeth-Manipulation-Quotes-EFF90546A71C9937" class="text-m cursor-pointer">Lady Macbeth Manipulation Quotes</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Manifest-Destiny-Dbq-Essay-2197982DCA55C5AF" class="text-m cursor-pointer">Manifest Destiny Dbq Essay</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Korda-And-Ors-V-Australian-Recontinent-Sa-F7A4697300DE6A01" class="text-m cursor-pointer">Korda And Ors V Australian Recontinent (Sa) Limited Case Brief</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Chief-Ken-Fortiers-Leading-Change-In-Riverside-1ECE54F1E67899C3" class="text-m cursor-pointer">Chief Ken Fortier&#x27;s Leading Change In Riverside, California</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/The-Stolen-Party-Thesis-2EB0AC8B1BE369CA" class="text-m cursor-pointer">The Stolen Party Thesis</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Reconstruction-Dbq-6C82114A6B36DE0E" class="text-m cursor-pointer">Reconstruction Dbq</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Pacific-Healthcare-Case-2A5F8F2C68AA7EE0" class="text-m cursor-pointer">Pacific Healthcare Case</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/The-Ending-Of-Lamar-Giless-The-Getaway-F09B2CC977EF51F8" class="text-m cursor-pointer">The Ending Of Lamar Giles&#x27;s &#x27;The Getaway&#x27;</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Examples-Of-Abigail-Williams-Selfish-Nature-In-8DAED3D9106F7ABF" class="text-m cursor-pointer">Examples Of Abigail William&#x27;s Selfish Nature In The Crucible</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/The-Other-Wes-Moore-Essay-Topics-027FA77C8C5594E1" class="text-m cursor-pointer">The Other Wes Moore Essay Topics</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Cardinal-Health-Care-System-Case-Summary-DAB5B0143A3B1B85" class="text-m cursor-pointer">Cardinal Health Care System Case Summary</a>
+              </li>
+          </ul>
+      </div>
+  </div>
+  
+  <div class="row center padding-top-1" >
+      <div class="columns large-4 large-offset-4 z-index-1 position-relative">
+          <div>
+              <a href="javascript:void(0);" class="button button--inverse button--block text-m show-more"
+                    aria-label="Show More" aria-expanded="false"
+                    id="show-more-new-essays-link"
+                    data-bv-click="toggleClass('display-none'):'hidden-more-new-essays';toggleText('Show Less', 'Show More'):'show-more-new-essays-link';toggleAttr('aria-label', 'Show Less', 'Show More'):'show-more-new-essays-link';toggleAttr('aria-expanded', 'true', 'false'):'show-more-new-essays-link'"
+              >
+                  Show More
+              </a>
+          </div>
+      </div>
+  </div>
+  <div class="row display-none z-index-1 position-relative" id="hidden-more-new-essays">
+      <div class="columns large-12" >
+        <div class="row">
+            <div class="columns">
+                <div class="section-heading uppercase">
+                    <h5>More New Essays</h5>
+                </div>
+            </div>
+        </div>
+        <div class="row padding-left-2">
+          <div class="columns">
+            <div class="row">
+                <div class="columns columns-small-2 columns-medium-3 columns-large-4">
+                    <ul>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/2-1-Explain-Ways-To-Maintain-A-09E0CFDDEBFA0068" class="text-m cursor-pointer">2.1 Explain Ways To Maintain A Safe And Supportive Learning Environment</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Summary-Of-Total-Eclipse-By-Annie-Dillard-F8FA4D9393447315" class="text-m cursor-pointer">Summary Of Total Eclipse By Annie Dillard</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Ap-Euro-Dbq-Imperialism-AE345DCFB55D5EDD" class="text-m cursor-pointer">Ap Euro Dbq Imperialism</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/AP-Art-Analysis-Magalang-Indonesia-2B0CB013D4D6735F" class="text-m cursor-pointer">AP Art Analysis: Magalang, Indonesia</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Banning-Erik-Larsons-The-Devil-In-The-188D2BC215092B4B" class="text-m cursor-pointer">Banning Erik Larson&#x27;s The Devil In The White City</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Scott-Fitzgeralds-Use-Of-Literary-Devices-In-1E308DEB9B7D05AF" class="text-m cursor-pointer">Scott Fitzgerald&#x27;s Use Of Literary Devices In The Great Gatsby</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Silk-Road-DBQ-A4487820B506A86A" class="text-m cursor-pointer">Silk Road DBQ</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Colossal-Corporations-White-Arch-Casino-Essay-B524CAFF801D377B" class="text-m cursor-pointer">Colossal Corporation&#x27;s White Arch Casino Essay</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Snobby-Girl-Monologue-201A445D6AB31F8C" class="text-m cursor-pointer">Snobby Girl Monologue</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Napoleon-Bonaparte-Dbq-Essay-97A8CB5B06563A1B" class="text-m cursor-pointer">Napoleon Bonaparte Dbq Essay</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/The-Other-Wes-Moore-Essay-FC2CE4AE9B01A329" class="text-m cursor-pointer">The Other Wes Moore Essay</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Rogers-Communications-Inc-Oligopoly-Case-2BC949185A7B2A7F" class="text-m cursor-pointer">Rogers Communications Inc Oligopoly Case</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Are-Student-Loans-Destroying-The-Economy-Analysis-2821571FB6AB9F2E" class="text-m cursor-pointer">Are Student Loans Destroying The Economy Analysis</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Examples-Of-Paranoia-In-The-Crucible-60B68EE28CD401F7" class="text-m cursor-pointer">Examples Of Paranoia In The Crucible</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/The-Other-Wes-Moore-2C961A211BB71AA1" class="text-m cursor-pointer">The Other Wes Moore</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/San-Diego-Troll-Project-Proposal-926F48CDF7E087AF" class="text-m cursor-pointer">San Diego Troll Project Proposal</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Firekeepers-Daughter-Betrayal-Analysis-46DA8733B2843767" class="text-m cursor-pointer">Firekeeper&#x27;s Daughter Betrayal Analysis</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Examples-Of-Irony-In-Lamb-To-The-7B4D4B2583481039" class="text-m cursor-pointer">Examples Of Irony In Lamb To The Slaughter</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Zheng-He-Dbq-4116A086BFFC86AD" class="text-m cursor-pointer">Zheng He Dbq</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Keurig-Green-Mountain-B2444A33A425BB29" class="text-m cursor-pointer">Keurig Green Mountain</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Health-Inequities-In-Australia-66237E8C725E7B1F" class="text-m cursor-pointer">Health Inequities In Australia</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Frankenstein-Pride-Quotes-31A94626941F1441" class="text-m cursor-pointer">Frankenstein Pride Quotes</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Civil-War-DBQ-Essay-1EEE6C2C6C1C7609" class="text-m cursor-pointer">Civil War DBQ Essay</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Caltron-Inventory-Turnover-2C5FA3DB7387115A" class="text-m cursor-pointer">Caltron Inventory Turnover</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Why-Schools-Should-Start-Later-For-Teens-6A9EE8B9F52548A7" class="text-m cursor-pointer">Why Schools Should Start Later For Teens Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Examples-Of-Duality-In-Dr-Jekyll-And-14FD2E87FDB826E7" class="text-m cursor-pointer">Examples Of Duality In Dr Jekyll And Mr Hyde</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Jasper-Jones-Quotes-A408A00B1A35744E" class="text-m cursor-pointer">Jasper Jones Quotes</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Sunshine-Coast-Hill-Tonne-Pty-Ltd-18BF6C829E75DCAC" class="text-m cursor-pointer">Sunshine Coast Hill-Tonne Pty Ltd</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Summary-Of-A-Eulogy-For-The-American-B61DDF937A1B03ED" class="text-m cursor-pointer">Summary Of A Eulogy For The American Dream By Azza</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Night-Elie-Wiesel-Quotes-Analysis-CE808F07D3A35C4C" class="text-m cursor-pointer">Night Elie Wiesel Quotes Analysis</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Westward-Expansion-Dbq-5AA9C55E145D4E7C" class="text-m cursor-pointer">Westward Expansion Dbq</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Alan-Mulally-Case-Summary-CDBDC46A07FAF361" class="text-m cursor-pointer">Alan Mulally Case Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Finding-Ones-Father-By-Richard-Wagamese-C1EB11B15D1C8DB9" class="text-m cursor-pointer">Finding One&#x27;s Father, By Richard Wagamese</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Rhetorical-Analysis-Sonia-Sotomayor-D734949E6811A4EB" class="text-m cursor-pointer">Rhetorical Analysis: Sonia Sotomayor</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Silk-Roads-Dbq-Analysis-D5ECB94AD6DDF778" class="text-m cursor-pointer">Silk Roads Dbq Analysis</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Health-Payroll-Executive-Summary-F4EC6167753E8FE1" class="text-m cursor-pointer">Health Payroll Executive Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Personal-Leadership-Development-CD773EBEB37B4273" class="text-m cursor-pointer">Personal Leadership Development</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Examples-Of-Dehumanization-In-Night-By-Elie-A730223B3BD2A3A9" class="text-m cursor-pointer">Examples Of Dehumanization In Night By Elie Wiesel</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Essay-On-Concussions-8BE12EEE3F7470A4" class="text-m cursor-pointer">Essay On Concussions</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Valilas-V-Januzaj-436-B48A7085A0F861A6" class="text-m cursor-pointer">Valilas V. Januzaj 436</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Comparing-Ocean-At-The-End-Of-The-F28BD4732D3E0F9F" class="text-m cursor-pointer">Comparing Ocean At The End Of The Lane And A Monster Calls</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/How-Ted-Bundy-Falls-Into-The-Attachment-3AC77DB2494A42CE" class="text-m cursor-pointer">How Ted Bundy Falls Into The Attachment Theory</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Anthem-Technology-Quotes-EFCFA6E81E0B2922" class="text-m cursor-pointer">Anthem Technology Quotes</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Brunelleschi-Florence-Dome-Summary-0039E1BC2F8A7F55" class="text-m cursor-pointer">Brunelleschi Florence Dome Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/A-Rhetorical-Analysis-Of-Pokemon-Go-02F28B5F69879068" class="text-m cursor-pointer">A Rhetorical Analysis Of Pokemon Go</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/I-Have-A-Dream-Ethos-Pathos-Logos-6F63DDF7D7B2B152" class="text-m cursor-pointer">I Have A Dream Ethos Pathos Logos</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Dbq-Westward-Expansion-B906A7C3A1280B09" class="text-m cursor-pointer">Dbq Westward Expansion</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Mylan-Pharmaceutical-Case-Summary-7182097DDBF0D293" class="text-m cursor-pointer">Mylan Pharmaceutical Case Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Where-The-Sidewalk-Ends-By-Shel-Silverstein-03DC5AE772C86160" class="text-m cursor-pointer">Where The Sidewalk Ends By Shel Silverstein</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Rhetorical-Analysis-Of-We-Choose-To-Go-1D48F9B8C4EEDB7E" class="text-m cursor-pointer">Rhetorical Analysis Of We Choose To Go To The Moon</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Cold-War-Dbq-EADEFD76FFFE6306" class="text-m cursor-pointer">Cold War Dbq</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Ice-Fili-Case-4EC0E9A5DAF5F896" class="text-m cursor-pointer">Ice-Fili Case</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Thomas-Capano-And-Anne-Fahey-Case-04064C153E0DFA11" class="text-m cursor-pointer">Thomas Capano And Anne Fahey Case</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/The-Boy-Who-Harnessed-The-Wind-Perseverance-0850D4A533926D3B" class="text-m cursor-pointer">The Boy Who Harnessed The Wind Perseverance Quotes</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/The-Other-Wes-Moore-The-Story-Of-E34984F8FE01754E" class="text-m cursor-pointer">The Other Wes Moore: The Story Of My Life</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Vatix-Intelligence-Inc-V-Freud-Case-Summary-C6FA96F7D44D7EB3" class="text-m cursor-pointer">Vatix Intelligence Inc. V. Freud Case Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Salty-The-Ever-Changing-Realm-Of-The-04BFB9A48EE23A4E" class="text-m cursor-pointer">Salty: The Ever-Changing Realm Of The English Language</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Protestant-Reformation-Dbq-785EE30AB1A0869B" class="text-m cursor-pointer">Protestant Reformation Dbq</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/John-Brown-Dbq-27E9694E70DBDADB" class="text-m cursor-pointer">John Brown Dbq</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Bath-Towels-Case-Summary-A9925C7498894348" class="text-m cursor-pointer">Bath Towels Case Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Pervasive-Personality-Disorder-09C03C400398E797" class="text-m cursor-pointer">Pervasive Personality Disorder</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Oodgeroo-Noonuccal-Minjerriba-CCADE2E2442CB091" class="text-m cursor-pointer">Oodgeroo Noonuccal &#x27;Minjerriba&#x27;</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/To-What-Extent-Were-The-Colonists-Responsible-F859A0B48A43052E" class="text-m cursor-pointer">To What Extent Were The Colonists Responsible For The American Revolution</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Pharmaceutical-Lab-9E278FCF7D41E075" class="text-m cursor-pointer">Pharmaceutical Lab</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Tis-Pity-Shes-A-Whore-Character-Analysis-0DF3E228B89CE94C" class="text-m cursor-pointer">Tis Pity She&#x27;s A Whore Character Analysis</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Fahrenheit-451-Epiphany-Quotes-6B02FDA06ECDB89B" class="text-m cursor-pointer">Fahrenheit 451 Epiphany Quotes</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/John-Brown-Dbq-Essay-B0DBADD178DDDCE4" class="text-m cursor-pointer">John Brown Dbq Essay</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Executors-Liability-Case-Study-AC76A1B416C65FA3" class="text-m cursor-pointer">Executor&#x27;s Liability Case Study</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Personal-Narrative-Wakeboarding-1693E758CC457530" class="text-m cursor-pointer">Personal Narrative: Wakeboarding</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Examples-Of-Romanticism-In-The-Devil-And-19D2B3A80DE9BCD4" class="text-m cursor-pointer">Examples Of Romanticism In The Devil And Tom Walker</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Essay-On-Trade-Dbq-ED23FD1DCC043C7C" class="text-m cursor-pointer">Essay On Trade Dbq</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/St-Michaels-Hospital-Board-Governance-Summary-261515F2E468084D" class="text-m cursor-pointer">St. Michael&#x27;s Hospital Board Governance Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/The-Hive-Analysis-1CDAF4F145F416A4" class="text-m cursor-pointer">The Hive Analysis</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Romeos-Impulsiveness-Quotes-FF505EADF3572A1C" class="text-m cursor-pointer">Romeo&#x27;s Impulsiveness Quotes</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Alien-And-Sedition-Acts-Dbq-551B0FC7628C8CA3" class="text-m cursor-pointer">Alien And Sedition Acts Dbq</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Budweiser-V-Silly-Squeakers-A-Case-Study-46E164CA410D49F9" class="text-m cursor-pointer">Budweiser V. Silly Squeakers: A Case Study</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Summary-Of-The-Lost-Boys-Of-Neverland-1DD97B69627B6A2F" class="text-m cursor-pointer">Summary Of The Lost Boys Of Neverland A Long Walk To Water</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Examples-Of-Sexism-In-The-Taming-Of-CFC6FC983B6E828B" class="text-m cursor-pointer">Examples Of Sexism In The Taming Of The Shrew</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Alexander-The-Great-Dbq-5D1641C8C59CE3B5" class="text-m cursor-pointer">Alexander The Great Dbq</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Cheap-Pharma-Case-Summary-CC099575E469752D" class="text-m cursor-pointer">Cheap Pharma Case Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/No-Country-For-Old-Men-Analysis-246B6E4420F50E51" class="text-m cursor-pointer">No Country For Old Men Analysis</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/How-Is-The-Crucible-Still-Relevant-Today-7AF1F9385AF6AA03" class="text-m cursor-pointer">How Is The Crucible Still Relevant Today</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Just-Mercy-Summary-C498B9D92A84BDCB" class="text-m cursor-pointer">Just Mercy Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Information-Technology-Problem-Analysis-Chandler-Regional-Hospital-5AADBA1D9837316A" class="text-m cursor-pointer">Information Technology Problem Analysis: Chandler Regional Hospital</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Disneys-Ethos-Pathos-And-Logos-27346BA4142AF084" class="text-m cursor-pointer">Disney&#x27;s Ethos Pathos And Logos</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/How-Is-Mary-Warren-Presented-In-The-5C18E9630C630F79" class="text-m cursor-pointer">How Is Mary Warren Presented In The Crucible</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Key-Facts-Of-The-Simon-Gittany-Case-86C1634882997DC3" class="text-m cursor-pointer">Key Facts Of The Simon Gittany Case</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Victorian-Civil-And-Administrative-Tribunal-VCAT-DB6C20922F5C0EDA" class="text-m cursor-pointer">Victorian Civil And Administrative Tribunal (VCAT)</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/American-Quilts-2F8486FD13670BF0" class="text-m cursor-pointer">American Quilts</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/An-Explication-Of-Connie-Waneks-Amaryllis-4EB035B5F1E93A0A" class="text-m cursor-pointer">An Explication Of Connie Wanek&#x27;s &#x27;Amaryllis&#x27;</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Trail-Of-Tears-Dbq-Research-Paper-DA3AB26C840A9D57" class="text-m cursor-pointer">Trail Of Tears Dbq Research Paper</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Crazy-Eddies-Fraud-44A10F7F1497BD65" class="text-m cursor-pointer">Crazy Eddie&#x27;s Fraud</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Mistake-Can-Change-Your-Life-328B57B8A4F4DCCF" class="text-m cursor-pointer">Mistake Can Change Your Life</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Thematic-Meaning-In-The-Crucible-By-Arthur-0431731DB2BFAE20" class="text-m cursor-pointer">Thematic Meaning In The Crucible By Arthur Miller</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Globalization-Dbq-739BE2D240F8436D" class="text-m cursor-pointer">Globalization Dbq</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Petersen-Vs-Grapes-Company-Case-Study-ED98CD7B84E0B1BB" class="text-m cursor-pointer">Petersen Vs. Grapes Company: Case Study</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/I-Am-The-Resurrection-And-The-Life-33825B8CB14EBC91" class="text-m cursor-pointer">I Am The Resurrection And The Life Study Guide</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Structural-Injustice-In-Just-Mercy-By-Bryan-EC717EE3FA8F3B43" class="text-m cursor-pointer">Structural Injustice In Just Mercy By Bryan Stevenson</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Patrick-Henry-Rhetorical-Questions-ED1202FCB7A195A1" class="text-m cursor-pointer">Patrick Henry Rhetorical Questions</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Eric-Peterson-Case-Summary-9BEA6DEF7A2E7540" class="text-m cursor-pointer">Eric Peterson Case Summary</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/False-Memories-Reliable-34C52DAA852EE44F" class="text-m cursor-pointer">False Memories Reliable</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Romeo-And-Juliet-Impulsive-Quotes-Analysis-E9C1621E384634EB" class="text-m cursor-pointer">Romeo And Juliet Impulsive Quotes Analysis</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/To-What-Extent-Was-Reconstruction-A-Success-7BA713B15C1C03B8" class="text-m cursor-pointer">To What Extent Was Reconstruction A Success?</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/Haply-Inc-V-Barksdale-LLC-0FC9AEC4F26F29C1" class="text-m cursor-pointer">Haply Inc. V. Barksdale LLC</a>
+                        </li>
+                        <li class="tag-block__li--link">
+                            <a href="/essay/How-Does-Technology-Affect-Human-Interaction-35CBA0D786A94482" class="text-m cursor-pointer">How Does Technology Affect Human Interaction</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</section>
+
+<section class="section padding-top-1 padding-bottom-1 no-margin no-border">
+  <div class="row">
+      <div class="columns large-12">
+          <div class="section-heading">
+              <h2 class="uppercase brand-primary heading-m align-left baloo" >Find Essay Examples</h2>
+          </div>
+          <div>
+          <p class="text-m">If writer’s block is a common problem for you, you don't need to look any further. 123HelpMe has a vast repository of essay examples and writing ideas to inspire your next submission. From themes traversing <a href="https://www.123helpme.com/essay/Similarities-Between-Biblical-Stories-And-Greek-Mythology-FC8HWXKTVT" class="weight-600" title="biblical and Greek mythologies">biblical and Greek mythologies</a> to <a href="https://www.123helpme.com/essay/Effects-of-Childhood-Sexual-Abuse-in-Adulthood-6596" class="weight-600" title="complex issues">complex issues</a> that can impact people's psyches, we have it all. Begin writing content pertinent to your topic with our extensive reservoir of sample college essays today. Discover the most unique topics and essay examples in the forthcoming list.</p>
+        </div>
+    </div>
+  </div>
+  
+  <div class="row padding-top-1">
+      <div class="columns columns-small-1 columns-medium-2 columns-large-3">
+          <ul>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Essay-About-Myself-78504" class="text-m cursor-pointer">Essay About Myself</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Tell-Me-a-Story-Daddy-353636" class="text-m cursor-pointer">Tell Me a Story, Daddy</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/My-Dad-Raped-Me-12703" class="text-m cursor-pointer">My Dad Raped Me</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Suga-Boom-Boom-By-James-Williams-666267" class="text-m cursor-pointer">Suga Boom Boom By James Williams</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/My-Goals-In-Life-Essay-754235" class="text-m cursor-pointer">My Goals In Life Essay</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Personal-Essay-Why-I-Have-A-Passion-708239" class="text-m cursor-pointer">Personal Essay: Why I Have A Passion For Helping People</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/I-Should-Be-A-Moderator-711315" class="text-m cursor-pointer">I Should Be A Moderator</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Theme-Of-Greed-In-A-Christmas-Carol-PCTDEAL2YT" class="text-m cursor-pointer">Theme Of Greed In A Christmas Carol</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/How-Does-Money-Buy-Happiness-Essay-448542" class="text-m cursor-pointer">How Does Money Buy Happiness Essay</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Loss-of-Faith-in-Night-by-Elie-152302" class="text-m cursor-pointer"> Loss of Faith in Night by Elie Wiesel</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/The-Pros-And-Cons-Of-Phenrx-FCFJXQTAV" class="text-m cursor-pointer">The Pros And Cons Of Phenrx</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/My-Experience-Working-in-a-Group-as-313064" class="text-m cursor-pointer">My Experience Working in a Group as a Group</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/My-Passionate-Hobby-Cooking-177643" class="text-m cursor-pointer">My Passionate Hobby: Cooking</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Descriptive-Essay-A-Beautiful-Place-13204" class="text-m cursor-pointer"> Descriptive Essay: A Beautiful Place</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/The-Three-Deaths-in-Hintons-The-Outsiders-178472" class="text-m cursor-pointer"> The Three Deaths in Hinton&#x27;s The Outsiders</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Melissa-Holmes-And-Domestic-Violence-739767" class="text-m cursor-pointer">Melissa Holmes And Domestic Violence</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Analysis-Of-Five-Things-An-Unloving-Mother-FJ6DXXKZVR" class="text-m cursor-pointer">Analysis Of Five Things An Unloving Mother Never Does</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Theres-Daggers-In-Mens-Smile-In-Macbeth-480E77330A1D608D" class="text-m cursor-pointer">Analysis of &quot;There&#x27;s Daggers in Men&#x27;s Smiles&quot; in &#x27;Macbeth&#x27;</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/My-Childhood-Memories-of-Grandpa-154992" class="text-m cursor-pointer">My Childhood Memories of Grandpa</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Ronald-Reagan-Challenger-Explosion-Speech-Analysis-PJF9CDTKV" class="text-m cursor-pointer">Ronald Reagan Challenger Explosion Speech Analysis</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Analysis-Of-The-Other-Side-Is-Not-666319" class="text-m cursor-pointer">Analysis Of The Other Side Is Not Dumb</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Should-Kids-Have-Cell-Phones-315369" class="text-m cursor-pointer">Should Kids Have Cell Phones?</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Act-3-Scene-1-Of-Macbeths-Soliloquy-FJ95Z39VGET" class="text-m cursor-pointer">Act 3 Scene 1 Of Macbeth&#x27;s Soliloquy &#x27;</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/C-Wright-Mills-The-Promise-272268" class="text-m cursor-pointer">C. Wright Mills&#x27; The Promise</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Waking-Up-in-a-Hospital-Room-A-382869" class="text-m cursor-pointer">Waking Up in a Hospital Room: A Short Story</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Learning-To-Read-And-Write-By-Frederick-537002" class="text-m cursor-pointer">Learning To Read And Write By Frederick Douglass Analysis</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Nick-Carraway-as-Honest-Liar-in-Fitzgeralds-10892" class="text-m cursor-pointer"> Nick Carraway as Honest Liar in Fitzgerald&#x27;s The Great Gatsby </a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Similarities-Between-Biblical-Stories-And-Greek-Mythology-FC8HWXKTVT" class="text-m cursor-pointer">Similarities Between Biblical Stories And Greek Mythology</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/The-1950s-Woman-269710" class="text-m cursor-pointer">The 1950s Woman</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Summary-Of-Brent-Stapless-Black-Men-And-519434" class="text-m cursor-pointer">Summary Of Brent Staples&#x27;s &#x27;Black Men And Public Space&#x27;</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Odysseus-Hero-Quotes-FCYXZVBRADT" class="text-m cursor-pointer">Odysseus Hero Quotes</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Should-People-Be-Held-Accountaable-In-Life-FJMYTEXMHJB" class="text-m cursor-pointer">Should People Be Held Accountaable In Life Or Death Decisions?</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Similarities-Between-English-And-The-American-Bill-66E0E2CEFA401F35" class="text-m cursor-pointer">Similarities Between English And The American Bill Of Rights</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Thesis-Statement-On-Immigration-535680" class="text-m cursor-pointer">Thesis Statement On Immigration</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Sexual-relationships-between-female-slaves-and-their-78541" class="text-m cursor-pointer">Sexual relationships between female slaves and their masters</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Descriptive-Essay-On-My-First-Concert-739346" class="text-m cursor-pointer">Descriptive Essay On My First Concert</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Why-I-Want-to-Become-a-Nurse-314110" class="text-m cursor-pointer">Why I Want to Become a Nurse</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Beauty-Essay-The-Definition-Of-Beauty-708435" class="text-m cursor-pointer">Beauty Essay: The Definition Of Beauty</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/F-O-L-K-S-Vio-156849" class="text-m cursor-pointer">F.O.L.K.S (Vio)</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/A-Good-Leader-Essay-387914" class="text-m cursor-pointer">A Good Leader Essay</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Who-Is-God-To-Me-Personal-Narrative-125893" class="text-m cursor-pointer">Who Is God To Me- Personal Narrative</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Plagiarism-Essay-387689" class="text-m cursor-pointer">Plagiarism Essay</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Informative-Speech-A-Persuasive-Speech-On-Mental-738173" class="text-m cursor-pointer">Informative Speech: A Persuasive Speech On Mental Health</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Stephen-King-Why-We-Crave-Horror-Movies-763506" class="text-m cursor-pointer">Stephen King Why We Crave Horror Movies Summary</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Eulogy-for-my-Loving-Mother-151484" class="text-m cursor-pointer"> Eulogy for my Loving Mother</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/What-Ive-Learned-about-Myself-this-First-301510" class="text-m cursor-pointer">What I&#x27;ve Learned about Myself this First Semester of College</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Another-Evening-At-The-Club-By-Alifa-712281" class="text-m cursor-pointer">Another Evening At The Club By Alifa Rifaat Summary</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Criticism-of-William-Saroyans-Five-Ripe-Pears-27379" class="text-m cursor-pointer">Five Ripe Pears Essay</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Compare-and-Contrast-Essay-Online-Shopping-vs-230563" class="text-m cursor-pointer">Compare and Contrast Essay: Online Shopping vs. In-Store Shopping</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/An-Analysis-Of-How-To-Transform-An-FCEJBBUG82R" class="text-m cursor-pointer">An Analysis Of How To Transform An Everyday, Ordinary Hoop Court</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/My-Family-My-Mother-My-Role-Model-172468" class="text-m cursor-pointer">My Family: My Mother, My Role Model</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Moses-VS-Abraham-77770" class="text-m cursor-pointer"> Moses VS Abraham</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Similarities-Between-Christianity-And-Ancient-Egyptian-Religion-636262" class="text-m cursor-pointer">Similarities Between Christianity And Ancient Egyptian Religion</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Macbeth-Brave-Character-Analysis-665894" class="text-m cursor-pointer">Macbeth Brave Character Analysis</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/My-Personal-Experience-My-Experience-As-A-672848" class="text-m cursor-pointer">My Personal Experience: My Experience As A Student</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/George-Orwells-Animal-Farm-Ignorance-Of-Animals-67208" class="text-m cursor-pointer"> George Orwells Animal Farm: Ignorance Of Animals And Pigs Controlling</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Thesis-on-Death-and-Grieving-291242" class="text-m cursor-pointer">Thesis on Death and Grieving</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Reflective-Essay-On-Interview-Experience-679808" class="text-m cursor-pointer">Reflective Essay On Interview Experience</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Differences-Between-The-Crucible-Book-And-Movie-FJTADLGUSDV" class="text-m cursor-pointer">Differences Between The Crucible Book And Movie</a>
+              </li>
+              <li class="tag-block__li--link">
+                  <a href="/essay/Role-of-Visions-and-Hallucinations-in-Macbeth-220007" class="text-m cursor-pointer"> Role of Visions and Hallucinations in Macbeth</a>
+              </li>
+          </ul>
+      </div>
+  </div>
+</section>
+
+
+
+<section class="section no-padding padding-top-2 align-left margin-4 no-border blue-baby-light--bg">
+    <div class="row" style="max-width:50rem">
+        <div class="columns small-3 medium-3 large-3">
+            <div>
+                <a href="/editor" class="wt-promo__home__button">
+                    <img alt="Writing Tool" class="full-width" src="//assets.123helpme.com/1.17/images/illustrations/123-helpme/grammar-checker.svg">
+                </a>
+            </div>
+        </div>
+        <div class="columns small-9 medium-9 large-9 margin-2 min-height-13--medium min-height-2--large">
+            <div>
+                <a href="/editor" class="wt-promo__home__button">
+                    <h2 class="uppercase brand-primary heading-m margin-1 baloo">Need Writing Help?</h2>
+                </a>
+            </div>
+            <div>
+                <p class="text-m margin-1">Whether you’re looking for essay format examples or in-depth studies of literary works, our <a href="https://www.123helpme.com/writing-help/" class="weight-600">Writing Help section</a> is at your disposal. That’s not all, you can also get instant feedback, citation help, and plagiarism checks for your academic paper with our online writing tool.</p>
+            </div>
+            <div>
+                <a href="/editor" class="button button--squarish text-m wt-promo__home__button">Get Started</a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="columns small-12">
+            <div>
+                <div class="blue-baby-light--bg z-index--1 bg-img--skew-bottom-right-up"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section padding-3 no-border">
+    <div class="row">
+        <div class="columns medium-12 large-12">
+            <div class="section-heading" style= "margin-bottom: 50px">
+            <h3 class= "weight-700 ">Student Reviews</h3>
+             </div>
+        </div>
+        <div class="columns talking-head position-relative small-offset-1 small-10 medium-offset-2 medium-8 large-offset-0 large-4 margin-2">
+            
+            <div class="talking-head__img-cont">
+                <img alt="User Icon #1" class="talking-head__img" src="//assets.123helpme.com/1.17/images/icons/123-helpme/talking-head-01.svg">
+            </div>
+            <div>
+                <p class="chetwode-blue weight-600 text-l talking-head__para">"Starting a paper is so hard - your essay examples helped me get past writer's block and finish my paper on time."<br>- Jessica M.</p>
+            </div>
+            <div>
+                <div class="talking-head__separator"></div>
+            </div>
+        </div>
+        <div class="columns talking-head  position-relative small-offset-1 small-10 medium-offset-2 medium-8 large-offset-0 large-4 margin-2">
+            <div class="talking-head__img-cont">
+                <img alt="User Icon #2" class="talking-head__img" src="//assets.123helpme.com/1.17/images/icons/123-helpme/talking-head-02.svg">
+            </div>
+            <div>
+                <p class="chetwode-blue weight-600 text-l talking-head__para">"123HelpMe has some of the most user-friendly writing tools. It’s fast and easy to access, and I would recommend them to every student."<br>- Mark T.</p>
+            </div>
+            <div>
+                <div class="talking-head__separator"></div>
+            </div>
+        </div>
+        <div class="columns talking-head position-relative small-offset-1 small-10 medium-offset-2 medium-8 large-offset-0 large-4 margin-2 end">
+            <div class="talking-head__img-cont">
+                <img alt="User Icon #3" class="talking-head__img" src="//assets.123helpme.com/1.17/images/icons/123-helpme/talking-head-03.svg">
+            </div>
+            <div>
+                <p class="chetwode-blue weight-600 text-l talking-head__para">"I’ve seen a great improvement in my writing ever since I started referring to the essays and articles on this website. Thank you for all the writing assistance and support."<br>- Noah S.</p>
+            </div>
+        </div>
+    </div>
+</section>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "123helpme.com",
+        "alternateName": "123helpme.com",
+        "url": "https://www.123helpme.com/",
+        "image": "//assets.123helpme.com/1.17/images/logos/123-helpme/logo-123-helpme-lg.png",
+        "logo": "//assets.123helpme.com/1.17/images/logos/123-helpme/logo-123-helpme-lg.png",
+        "sameAs": [
+            "https://www.facebook.com/123HelpMe-194749363876730/?ref=br_rs","https://twitter.com/123helpme_","https://www.instagram.com/123helpme_/?hl=en"
+        ]
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.123helpme.com/",
+        "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.123helpme.com/search?query={search_term}",
+        "query-input": "required name=search_term"
+        }
+    }
+  </script>
+    
+    <footer class="section section--footer no-padding padding-top-2">
+        <div class="row">
+            <div class="align-left small-8 small-offset-1 medium-offset-0 medium-3 large-3 columns">
+                <div class="vertical-nav-list ">
+                    <div class="vertical-nav-list__heading weight-700 margin-1">Company</div>
+                    <ul class="vertical-nav-list__container display-block full-width">
+                        <li class="vertical-nav-list__item margin-right-1 margin-right-1-5--large heading-xxs">
+                            <a
+                                class="vertical-nav-list__item__anchor"
+                                href="https://www.123helpme.com/about-us/privacy">
+                            About Us
+                            </a>
+                        </li>
+                        <li class="vertical-nav-list__item margin-right-1 margin-right-1-5--large heading-xxs">
+                            <a
+                                class="vertical-nav-list__item__anchor"
+                                href="https://www.123helpme.com/about-us/contact">
+                            Contact
+                            </a>
+                        </li>
+                        <li class="vertical-nav-list__item margin-right-1 margin-right-1-5--large heading-xxs">
+                            <a
+                                class="vertical-nav-list__item__anchor"
+                                href="https://www.123helpme.com/FAQ.ASP">
+                            FAQ
+                            </a>
+                        </li>
+                        <li class="vertical-nav-list__item margin-right-1 margin-right-1-5--large heading-xxs">
+                            <a
+                                class="vertical-nav-list__item__anchor"
+                                href="https://www.123helpme.com/sitemap/docs">
+                            Document Sitemap
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+    
+            <div class="align-left small-8 small-offset-1 medium-offset-0 medium-4 large-4 columns">
+                <div class="vertical-nav-list ">
+                    <div class="vertical-nav-list__heading heading-xxs weight-700 margin-0-5">Legal</div>
+                    <ul class="vertical-nav-list__container display-block full-width">
+                        <li class="vertical-nav-list__item margin-right-1 margin-right-1-5--large">
+                            <a
+                                class="vertical-nav-list__item__anchor"
+                                target="_blank"
+                                rel="nofollow"
+                                href="https://www.learneo.com/legal/copyright-policy">
+                            Copyright Policy
+                            </a>
+                        </li>
+                        <li class="vertical-nav-list__item margin-right-1 margin-right-1-5--large">
+                            <a
+                                class="vertical-nav-list__item__anchor"
+                                target="_blank"
+                                rel="nofollow"
+                                href="https://www.learneo.com/legal/community-guidelines">
+                            Community Guidelines
+                            </a>
+                        </li>
+                        <li class="vertical-nav-list__item margin-right-1 margin-right-1-5--large">
+                            <a
+                                class="vertical-nav-list__item__anchor"
+                                target="_blank"
+                                rel="nofollow"
+                                href="https://www.learneo.com/legal/honor-code">
+                            Our Honor Code
+                            </a>
+                        </li>
+                        <li class="vertical-nav-list__item margin-right-1 margin-right-1-5--large">
+                            <a
+                                class="vertical-nav-list__item__anchor"
+                                target="_blank"
+                                rel="nofollow"
+                                href="https://www.learneo.com/legal/privacy-policy">
+                            Privacy Policy
+                            </a>
+                        </li>
+                        <li class="vertical-nav-list__item margin-right-1 margin-right-1-5--large">
+                            <a
+                                class="vertical-nav-list__item__anchor"
+                                href="https://www.123helpme.com/about-us/terms">
+                            Service Terms
+                            </a>
+                        </li>
+                        <li tabindex="0" class="vertical-nav-list__item margin-right-1 margin-right-1-5--large cursor-pointer vertical-nav-list__item__anchor ot-sdk-show-settings">
+                            <a id="ot-sdk-btn"
+                               rel="nofollow">
+                                Cookie Settings
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+    
+            <div class="align-left align-right--medium small-8 small-offset-1 medium-offset-0 medium-3 large-3 columns margin-1 margin-top-1 float-none-mobile">
+                <div class="vertical-nav-list ">
+                    <ul class="vertical-nav-list__container">
+                        <li class="vertical-nav-list__item">
+                            <p >
+                                <a href="https://www.facebook.com/123HelpMe-194749363876730/?ref=br_rs">
+                                    <span class="copyright-block__social__circle copyright-block__social__circle--no-stroke">
+                                        <img src="//assets.123helpme.com/1.17/images/icons/social/facebook.svg" width="24" height="24" loading="lazy" decoding="async" alt="Facebook" aria-hidden="true"/>
+                                    </span>
+                                </a>
+                                <a href="https://twitter.com/123helpme_">
+                                    <span class="copyright-block__social__circle copyright-block__social__circle--no-stroke">
+                                        <img src="//assets.123helpme.com/1.17/images/icons/social/x-white.svg" width="24" height="24" loading="lazy" decoding="async" alt="Twitter" aria-hidden="true"/>
+    
+                                    </span>
+                                </a>
+                                <a href="https://www.instagram.com/123helpme_/?hl=en">
+                                    <span class="copyright-block__social__circle copyright-block__social__circle--no-stroke">
+                                        <img src="//assets.123helpme.com/1.17/images/icons/social/instagram.svg" width="24" height="24" loading="lazy" decoding="async" alt="Instagram" aria-hidden="true"/>
+                                    </span>
+                                </a>
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="align-left align-right--medium small-8 small-offset-1 medium-offset-0 medium-2 large-2 columns margin-1-5 float-none-mobile">
+                <div class="vertical-nav-list ">
+                    <ul class="vertical-nav-list__container">
+                        <li class="vertical-nav-list__item">
+                            <a href="/">
+                                <img alt="123 Help Me Logo" width="128" height="46" src="//assets.123helpme.com/1.17/images/logos/123-helpme/logo-123-helpme-lg.png" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div></div>
+        </div>
+        <div class="row">
+            <div class="align-left small-12 columns center border--top padding-top-2">
+                <div class="vertical-nav-list ">
+                    <ul class="vertical-nav-list__container">
+                        <li class="vertical-nav-list__item">
+                            <span class="vertical-nav-list__item__anchor display-block center align-left--large white">
+                                Copyright © 2000-2025. 123helpme.com. All rights reserved.
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+        <script type="text/javascript" async src="//assets.123helpme.com/1.17/js/scripts.1.17.124.min.js"></script>
+
+</body>
+
+</html>

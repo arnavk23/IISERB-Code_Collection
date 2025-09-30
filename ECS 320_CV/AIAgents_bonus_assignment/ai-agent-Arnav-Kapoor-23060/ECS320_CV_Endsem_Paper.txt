@@ -1,0 +1,34 @@
+------------------------------------------------------------
+        Indian Institute of Science Education and Research, Bhopal
+------------------------------------------------------------
+
+Course Name: ECS 320 Computer Vision
+Course Code: ECS 320
+Exam Name: MidSemester Exam
+Date of Exam: August 17, 2025
+Maximum Marks: 30
+Professor: Dr. Akshay Aggarwal
+
+------------------------------------------------------------
+
+Section I: Objective Type Questions (MCQs) [10 marks]
+
+Q1. What is the main purpose of Non-Maximum Suppression in object detection? (2 marks)
+   A. Reduce false positives
+   B. Merge overlapping boxes
+   C. Increase recall
+   D. Normalize images
+
+Q2. Which layer in a CNN is primarily responsible for feature extraction? (2 marks)
+   A. Convolutional
+   B. Pooling
+   C. Fully Connected
+   D. Dropout
+
+------------------------------------------------------------
+
+Section II: Subjective Type Questions [20 marks]
+
+Q1. Compare and contrast zero-shot and few-shot learning approaches in computer vision. (10 marks)
+
+------------------------------------------------------------

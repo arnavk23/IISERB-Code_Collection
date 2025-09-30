@@ -1,0 +1,4 @@
+fpdf
+graphviz
+gradio
+openai

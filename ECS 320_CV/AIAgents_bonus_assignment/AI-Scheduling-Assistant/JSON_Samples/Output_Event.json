@@ -1,0 +1,93 @@
+{
+    "Request_id": "6118b54f-907b-4451-8d48-dd13d76033a5",
+    "Datetime": "19-07-2025T12:34:55",
+    "Location": "IISc Bangalore",
+    "From": "userone.amd@gmail.com",
+    "Attendees": [
+        {
+            "email": "userone.amd@gmail.com",
+            "events": [
+                {
+                    "StartTime": "2025-07-24T10:30:00+05:30",
+                    "EndTime": "2025-07-24T11:00:00+05:30",
+                    "NumAttendees": 3,
+                    "Attendees": [
+                        "userone.amd@gmail.com",
+                        "usertwo.amd@gmail.com",
+                        "userthree.amd@gmail.com"
+                    ],
+                    "Summary": "Agentic AI Project Status Update"
+                }
+            ]
+        },
+        {
+            "email": "usertwo.amd@gmail.com",
+            "events": [
+                {
+                    "StartTime": "2025-07-24T10:00:00+05:30",
+                    "EndTime": "2025-07-24T10:30:00+05:30",
+                    "NumAttendees": 3,
+                    "Attendees": [
+                        "userone.amd@gmail.com",
+                        "usertwo.amd@gmail.com",
+                        "userthree.amd@gmail.com"
+                    ],
+                    "Summary": "Team Meet"
+                },
+                {
+                    "StartTime": "2025-07-24T10:30:00+05:30",
+                    "EndTime": "2025-07-24T11:00:00+05:30",
+                    "NumAttendees": 3,
+                    "Attendees": [
+                        "userone.amd@gmail.com",
+                        "usertwo.amd@gmail.com",
+                        "userthree.amd@gmail.com"
+                    ],
+                    "Summary": "Agentic AI Project Status Update"
+                }
+            ]
+        },
+        {
+            "email": "userthree.amd@gmail.com",
+            "events": [
+                {
+                    "StartTime": "2025-07-24T10:00:00+05:30",
+                    "EndTime": "2025-07-24T10:30:00+05:30",
+                    "NumAttendees": 3,
+                    "Attendees": [
+                        "userone.amd@gmail.com",
+                        "usertwo.amd@gmail.com",
+                        "userthree.amd@gmail.com"
+                    ],
+                    "Summary": "Team Meet"
+                },
+                {
+                    "StartTime": "2025-07-24T13:00:00+05:30",
+                    "EndTime": "2025-07-24T14:00:00+05:30",
+                    "NumAttendees": 1,
+                    "Attendees": [
+                        "SELF"
+                    ],
+                    "Summary": "Lunch with Customers"
+                },
+                {
+                    "StartTime": "2025-07-24T10:30:00+05:30",
+                    "EndTime": "2025-07-24T11:00:00+05:30",
+                    "NumAttendees": 3,
+                    "Attendees": [
+                        "userone.amd@gmail.com",
+                        "usertwo.amd@gmail.com",
+                        "userthree.amd@gmail.com"
+                    ],
+                    "Summary": "Agentic AI Project Status Update"
+                }
+            ]
+        }
+    ],
+    "Subject": "Agentic AI Project Status Update",
+    "EmailContent": "Hi team, let's meet on Thursday for 30 minutes to discuss the status of Agentic AI Project.",
+    "EventStart": "2025-07-24T10:30:00+05:30",
+    "EventEnd": "2025-07-24T11:00:00+05:30",
+    "Duration_mins": "30",
+    "MetaData": {}
+}

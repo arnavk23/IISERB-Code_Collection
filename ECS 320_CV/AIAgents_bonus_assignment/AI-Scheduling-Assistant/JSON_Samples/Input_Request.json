@@ -1,0 +1,16 @@
+{
+    "Request_id": "6118b54f-907b-4451-8d48-dd13d76033b5",
+    "Datetime": "19-07-2025T12:34:55",
+    "Location": "IISc Bangalore",
+    "From": "userone.amd@gmail.com",
+    "Attendees": [
+        {
+            "email": "usertwo.amd@gmail.com"
+        },
+        {
+            "email": "userthree.amd@gmail.com"
+        }
+    ],
+    "Subject": "Client Validation - Urgent",
+    "EmailContent": "Hi Team. We’ve just received quick feedback from the client indicating that the instructions we provided aren’t working on their end. Let’s prioritize resolving this promptly. Let’s meet Monday at 9:00 AM to discuss and resolve this issue."
+}

@@ -1,0 +1,30 @@
+------------------------------------------------------------
+        Indian Institute of Science Education and Research, Bhopal
+------------------------------------------------------------
+
+Course Name: ECS 320 Computer Vision
+Course Code: ECS 320
+Exam Name: Syllabus
+Date of Exam: August 17, 2025
+Professor: Dr. Akshay Aggarwal
+
+------------------------------------------------------------
+
+Syllabus for ECS 320 Computer Vision:
+- Fundamentals of Computer Vision
+- Image Processing and Feature Extraction
+- Convolutional Neural Networks (CNNs)
+- Object Detection and Recognition
+- Image Segmentation
+- Transfer Learning in CV
+- Generative Adversarial Networks (GANs)
+- 3D Vision and Reconstruction
+- Visual SLAM
+- Deep Learning for Video Analysis
+- Explainable AI in CV
+- Medical Image Analysis
+- Self-supervised Learning
+- Vision Transformers
+- Zero-shot and Few-shot Learning
+- Domain Adaptation
+- Multi-modal Learning (Vision + Language)

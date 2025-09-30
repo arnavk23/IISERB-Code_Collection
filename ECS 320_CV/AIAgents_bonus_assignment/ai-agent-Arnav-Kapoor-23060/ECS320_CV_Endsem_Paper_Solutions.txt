@@ -1,0 +1,23 @@
+------------------------------------------------------------
+        Indian Institute of Science Education and Research, Bhopal
+------------------------------------------------------------
+
+Course Name: ECS 320 Computer Vision
+Course Code: ECS 320
+Exam Name: MidSemester Exam Solutions
+Date of Exam: August 17, 2025
+Professor: Dr. Akshay Aggarwal
+
+------------------------------------------------------------
+
+Section I: Objective Type Questions Solutions
+Q1: A. Cross-Entropy
+Q2: A. Convolutional
+Q3: C. LSTM
+Q4: B. Merge overlapping boxes
+Q5: A. Autoencoders
+
+Section II: Subjective Type Questions Solutions
+Q1: Zero-shot learning enables models to recognize objects/classes not seen during training by leveraging semantic relationships, while few-shot learning focuses on learning from a very small number of examples. Both are crucial for scalable computer vision, but zero-shot relies more on external knowledge (e.g., attributes, word vectors), whereas few-shot uses meta-learning or transfer learning techniques.
+
+Q2: 3D reconstruction from multiple images involves extracting depth and structure by matching features across images, triangulating points, and building a 3D model. It is significant for applications like AR/VR, robotics, and medical imaging, as it allows for spatial understanding and interaction with real-world environments.
