@@ -1,0 +1,28 @@
+<html><head><meta charset="utf-8"><title>Analysis report</title></head><body>
+<h1>Assignment 1 — Analysis and Report</h1>
+<h2>Dataset overview</h2>
+<p>Train shape: (1000, 4)</p>
+<p>Test shape: (250, 3)</p>
+<h2>Feature distributions</h2>
+<img src="analysis_images/hist_Temperature.png" style="max-width:700px"><br>
+<img src="analysis_images/hist_Vibration.png" style="max-width:700px"><br>
+<img src="analysis_images/hist_Stress_index.png" style="max-width:700px"><br>
+<h2>Validation evaluation</h2>
+<pre>
+              precision    recall  f1-score   support
+
+           1       0.99      0.99      0.99       155
+           2       0.98      0.98      0.98        45
+
+    accuracy                           0.99       200
+   macro avg       0.99      0.99      0.99       200
+weighted avg       0.99      0.99      0.99       200
+
+</pre>
+<h3>Confusion matrix</h3>
+<img src="analysis_images/confusion_matrix.png" style="max-width:400px"><br>
+<h3>Feature importances</h3>
+<img src="analysis_images/feature_importance.png" style="max-width:700px"><br>
+<h2>Reproducibility</h2>
+<p>Run <code>python train_and_tune.py</code> to reproduce model selection and final_submission.csv.</p>
+</body></html>

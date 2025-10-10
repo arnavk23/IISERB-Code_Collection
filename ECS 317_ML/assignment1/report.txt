@@ -1,0 +1,5 @@
+Model selection report
+Best model: rf
+RandomForestClassifier(min_samples_split=5, random_state=42)
+Validation accuracy: 0.9900
+Validation f1 (weighted): 0.9900
