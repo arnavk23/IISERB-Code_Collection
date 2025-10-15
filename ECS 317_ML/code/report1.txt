@@ -1,0 +1,42 @@
+ Class           Number of Instances 
+
+        2                       227
+        1                       773
+
+Proceeding with training/validation split...
+
+ Training Data 
+
+ Class           Number of Instances 
+
+        2                       227
+        1                       773
+
+Proceeding to training...
+
+ Validation Data 
+
+ Class           Number of Instances 
+
+        2                       227
+        1                       773
+
+Proceeding to classification...
+
+ ##### Classification Report ##### 
+
+              precision    recall  f1-score   support
+
+           1       0.97      0.93      0.95       387
+           2       0.79      0.90      0.84       113
+
+    accuracy                           0.92       500
+   macro avg       0.88      0.92      0.90       500
+weighted avg       0.93      0.92      0.93       500
+
+
+ Precision:     0.8805240393656366
+
+ Recall:        0.916443712698086
+
+ F1-Score:      0.8964216402450991
