@@ -1,0 +1,1 @@
+Estimated vanishing point (median over frames): (207.72867584228516, 373.4129638671875)
