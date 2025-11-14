@@ -1,0 +1,15 @@
+LTspice 24.1.10 for Windows
+Circuit: D:\New Me\Acadamics\Sem-5\EECS Lab\Exp-7\Inverting_Amplifier.net
+Start Time: Wed Oct 29 17:22:10 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.438 seconds.
+
+Files loaded:
+D:\New Me\Acadamics\Sem-5\EECS Lab\Exp-7\Inverting_Amplifier.net
+C:\Users\Dhruv Saluja\AppData\Local\LTspice\lib\sub\LM741.lib
+
