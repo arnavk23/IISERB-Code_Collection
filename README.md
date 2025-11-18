@@ -8,3 +8,6 @@ Includes folders of courses :
 - ECS 317 - Machine Learning (ML)
 - ECS 320 - Computer Vision (CV)
 - ECS 330 - EECS Lab II
+
+External course folders :
+- ICTP Physics LATAM - Riemannian and Complex Geometry 2025
