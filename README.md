@@ -2,7 +2,7 @@ The collection of all the code written during my Bachelor's degree in Computer S
 
 Includes folders of courses :
 - ECS 102 - Introduction to C
-- ECS 206 - Physics Through Computational Thinking (PTCT)
+- PHY 206 - Physics Through Computational Thinking (PTCT)
 - ECS 310 - Fundamentals of Database System (FDS)
 - ECS 317 - Machine Learning (ML)
 - ECS 320 - Computer Vision (CV)
