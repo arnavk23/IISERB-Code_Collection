@@ -4,12 +4,11 @@ Includes folders of courses :
 - ECS 102 - Introduction to C
 - ECS 202 - Data Structures and Algorithms (DSA)
 - PHY 206 - Physics Through Computational Thinking (PTCT)
-- ECS 310 - Fundamentals of Database System (FDS)
-- ECS 313 - Artificial Intelligence (AI)
+- ECS 311 - Applied Optimization (AO)
+- ECS 312 - Fundamentals of Database System (FDS)
 - ECS 317 - Machine Learning (ML)
 - ECS 320 - Computer Vision (CV)
-- ECS 327 - EECS Lab I
-- ECS 330 - EECS Lab II
+- ECS 327 - EECS Lab
 
 External course folders :
 - ICTP Physics LATAM - Riemannian and Complex Geometry 2025
