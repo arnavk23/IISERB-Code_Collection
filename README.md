@@ -8,6 +8,7 @@ Includes folders of courses :
 - ECS 312 - Fundamentals of Database System (FDS)
 - ECS 317 - Machine Learning (ML)
 - ECS 320 - Computer Vision (CV)
+- ECS 326 - Digital Circuits and Systems (DCS)
 - ECS 327 - EECS Lab
 
 External course folders :
