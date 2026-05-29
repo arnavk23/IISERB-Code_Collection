@@ -13,3 +13,4 @@ Includes folders of courses :
 
 External course folders :
 - ICTP Physics LATAM - Riemannian and Complex Geometry 2025
+- QNickel - QWorld 2026
