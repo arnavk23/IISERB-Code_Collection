@@ -10,6 +10,7 @@ Includes folders of courses :
 - ECS 320 - Computer Vision (CV)
 - ECS 326 - Digital Circuits and Systems (DCS)
 - ECS 327 - EECS Lab
+- ECS 409 - Computer Organisation and Architecture (COA)
 - ECS 431 - Federated Learning (FL)
 
 External course folders :
